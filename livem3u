@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="US: ABC" tvg-logo="" group-title="USA",US: ABC
 http://wagnet.club:55055/live/gregkodi/gregkodi/18174.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: ABC WEST" tvg-logo="" group-title="USA",US: ABC WEST
