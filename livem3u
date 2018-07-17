@@ -1,0 +1,1682 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC" tvg-logo="" group-title="USA",US: ABC
+http://wagnet.club:55055/live/gregkodi/gregkodi/18174.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC WEST" tvg-logo="" group-title="USA",US: ABC WEST
+http://wagnet.club:55055/live/gregkodi/gregkodi/18149.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC" tvg-logo="" group-title="USA",US: AMC
+http://wagnet.club:55055/live/gregkodi/gregkodi/18173.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: American Forces Network Sports" tvg-logo="" group-title="USA",US: American Forces Network Sports
+http://wagnet.club:55055/live/gregkodi/gregkodi/18148.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ANIMAL PLANET" tvg-logo="" group-title="USA",US: ANIMAL PLANET
+http://wagnet.club:55055/live/gregkodi/gregkodi/18172.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BLOOMBERG TV HD" tvg-logo="" group-title="USA",US: BLOOMBERG TV HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18171.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bravo HD" tvg-logo="" group-title="USA",US: Bravo HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18170.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: C-Span 1" tvg-logo="" group-title="USA",US: C-Span 1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18168.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: C-Span 2" tvg-logo="" group-title="USA",US: C-Span 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/18167.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: C-Span 3" tvg-logo="" group-title="USA",US: C-Span 3
+http://wagnet.club:55055/live/gregkodi/gregkodi/18166.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CARTOON NETWORK" tvg-logo="" group-title="USA",US: CARTOON NETWORK
+http://wagnet.club:55055/live/gregkodi/gregkodi/18152.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX HD" tvg-logo="" group-title="USA",US: CINEMAX HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18147.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC" tvg-logo="" group-title="USA",US: CNBC
+http://wagnet.club:55055/live/gregkodi/gregkodi/18165.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN HD" tvg-logo="" group-title="USA",US: CNN HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18146.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CP24" tvg-logo="" group-title="USA",US: CP24
+http://wagnet.club:55055/live/gregkodi/gregkodi/18145.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW" tvg-logo="" group-title="USA",US: CW
+http://wagnet.club:55055/live/gregkodi/gregkodi/18163.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW HD" tvg-logo="" group-title="USA",US: CW HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18144.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY NETWORK" tvg-logo="" group-title="USA",US: DIY NETWORK
+http://wagnet.club:55055/live/gregkodi/gregkodi/18143.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: E!" tvg-logo="" group-title="USA",US: E!
+http://wagnet.club:55055/live/gregkodi/gregkodi/18142.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN" tvg-logo="" group-title="USA",US: ESPN
+http://wagnet.club:55055/live/gregkodi/gregkodi/18141.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="" group-title="USA",US: ESPN 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/18140.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Espn 3" tvg-logo="" group-title="USA",US: Espn 3
+http://wagnet.club:55055/live/gregkodi/gregkodi/18136.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN DEPORTES" tvg-logo="" group-title="USA",US: ESPN DEPORTES
+http://wagnet.club:55055/live/gregkodi/gregkodi/18139.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN News HD" tvg-logo="" group-title="USA",US: ESPN News HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18138.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN USA HD" tvg-logo="" group-title="USA",US: ESPN USA HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18137.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: FightBox HD" tvg-logo="" group-title="USA",US: FightBox HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18134.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: FOOD NETWORK" tvg-logo="" group-title="USA",US: FOOD NETWORK
+http://wagnet.club:55055/live/gregkodi/gregkodi/18162.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox HD" tvg-logo="" group-title="USA",US: Fox HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18133.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News HD" tvg-logo="" group-title="USA",US: Fox News HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18132.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News SD" tvg-logo="" group-title="USA",US: Fox News SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18131.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1 HD" tvg-logo="" group-title="USA",US: Fox Sports 1 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18151.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1 HD2" tvg-logo="" group-title="USA",US: Fox Sports 1 HD2
+http://wagnet.club:55055/live/gregkodi/gregkodi/18130.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 HD" tvg-logo="" group-title="USA",US: Fox Sports 2 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18150.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX" tvg-logo="" group-title="USA",US: FXX
+http://wagnet.club:55055/live/gregkodi/gregkodi/18135.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Global Toronto HD" tvg-logo="" group-title="USA",US: Global Toronto HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18129.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK" tvg-logo="" group-title="USA",US: HALLMARK
+http://wagnet.club:55055/live/gregkodi/gregkodi/18128.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO" tvg-logo="" group-title="USA",US: HBO
+http://wagnet.club:55055/live/gregkodi/gregkodi/18127.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature" tvg-logo="" group-title="USA",US: HBO Signature
+http://wagnet.club:55055/live/gregkodi/gregkodi/18126.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HGTV" tvg-logo="" group-title="USA",US: HGTV
+http://wagnet.club:55055/live/gregkodi/gregkodi/18125.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Investigation Discovery HD" tvg-logo="" group-title="USA",US: Investigation Discovery HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18124.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Lifetime" tvg-logo="" group-title="USA",US: Lifetime
+http://wagnet.club:55055/live/gregkodi/gregkodi/18161.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Miami Channel" tvg-logo="" group-title="USA",US: Miami Channel
+http://wagnet.club:55055/live/gregkodi/gregkodi/18122.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB Network HD" tvg-logo="" group-title="USA",US: MLB Network HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18123.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MoreMax HD" tvg-logo="" group-title="USA",US: MoreMax HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18121.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO WILD" tvg-logo="" group-title="USA",US: NAT GEO WILD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18159.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA HD" tvg-logo="" group-title="USA",US: NBA HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18120.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC" tvg-logo="" group-title="USA",US: NBC
+http://wagnet.club:55055/live/gregkodi/gregkodi/18119.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf" tvg-logo="" group-title="USA",US: NBC Golf
+http://wagnet.club:55055/live/gregkodi/gregkodi/18158.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf HD BU" tvg-logo="" group-title="USA",US: NBC Golf HD BU
+http://wagnet.club:55055/live/gregkodi/gregkodi/18118.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Golf HD BU2" tvg-logo="" group-title="USA",US: NBC Golf HD BU2
+http://wagnet.club:55055/live/gregkodi/gregkodi/18117.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sport Network BU" tvg-logo="" group-title="USA",US: NBC Sport Network BU
+http://wagnet.club:55055/live/gregkodi/gregkodi/18116.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Network HD" tvg-logo="" group-title="USA",US: NBC Sports Network HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18115.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Channel HD" tvg-logo="" group-title="USA",US: NFL Channel HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18114.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Now Live" tvg-logo="" group-title="USA",US: NFL Now Live
+http://wagnet.club:55055/live/gregkodi/gregkodi/18113.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="" group-title="USA",US: NHL Network
+http://wagnet.club:55055/live/gregkodi/gregkodi/18157.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network BU" tvg-logo="" group-title="USA",US: NHL Network BU
+http://wagnet.club:55055/live/gregkodi/gregkodi/18112.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network HD" tvg-logo="" group-title="USA",US: NHL Network HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18111.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Arizona HD" tvg-logo="" group-title="USA",US: PAC-12 Arizona HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18110.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Bay Area HD" tvg-logo="" group-title="USA",US: PAC-12 Bay Area HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18109.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Mountain HD" tvg-logo="" group-title="USA",US: PAC-12 Mountain HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18108.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Oregon HD" tvg-logo="" group-title="USA",US: PAC-12 Oregon HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18107.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PBS" tvg-logo="" group-title="USA",US: PBS
+http://wagnet.club:55055/live/gregkodi/gregkodi/18106.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Russia Today" tvg-logo="" group-title="USA",US: Russia Today
+http://wagnet.club:55055/live/gregkodi/gregkodi/18105.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime (East)" tvg-logo="" group-title="USA",US: Showtime (East)
+http://wagnet.club:55055/live/gregkodi/gregkodi/18104.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SPIKE" tvg-logo="" group-title="USA",US: SPIKE
+http://wagnet.club:55055/live/gregkodi/gregkodi/18156.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Spike HD" tvg-logo="" group-title="USA",US: Spike HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18103.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz HD" tvg-logo="" group-title="USA",US: Starz HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18102.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SYFY" tvg-logo="" group-title="USA",US: SYFY
+http://wagnet.club:55055/live/gregkodi/gregkodi/18155.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" tvg-logo="" group-title="USA",US: TBS HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18169.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel HD" tvg-logo="" group-title="USA",US: Tennis Channel HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18100.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: The Weather Channel" tvg-logo="" group-title="USA",US: The Weather Channel
+http://wagnet.club:55055/live/gregkodi/gregkodi/18099.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TLC" tvg-logo="" group-title="USA",US: TLC
+http://wagnet.club:55055/live/gregkodi/gregkodi/18154.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT" tvg-logo="" group-title="USA",US: TNT
+http://wagnet.club:55055/live/gregkodi/gregkodi/18153.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT HD" tvg-logo="" group-title="USA",US: TNT HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18101.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network" tvg-logo="" group-title="USA",US: USA Network
+http://wagnet.club:55055/live/gregkodi/gregkodi/18098.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Viceland" tvg-logo="" group-title="USA",US: Viceland
+http://wagnet.club:55055/live/gregkodi/gregkodi/18097.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: WGN News Chicago" tvg-logo="" group-title="USA",US: WGN News Chicago
+http://wagnet.club:55055/live/gregkodi/gregkodi/18096.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Willow Cricket HD" tvg-logo="" group-title="USA",US: Willow Cricket HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18092.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: WJAX CBS47" tvg-logo="" group-title="USA",US: WJAX CBS47
+http://wagnet.club:55055/live/gregkodi/gregkodi/18095.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: WJAX CBS47 Florida" tvg-logo="" group-title="USA",US: WJAX CBS47 Florida
+http://wagnet.club:55055/live/gregkodi/gregkodi/18094.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: WWE Network HD" tvg-logo="" group-title="USA",US: WWE Network HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18093.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA {} Staz West HD 1080P" tvg-logo="" group-title="USA",USA {} Staz West HD 1080P
+http://wagnet.club:55055/live/gregkodi/gregkodi/18091.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Los Angeles HD 1080p-" tvg-logo="" group-title="USA",USA | ABC Los Angeles HD 1080p-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18090.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Los Angeles HD 1080P-" tvg-logo="" group-title="USA",USA | CBS Los Angeles HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18089.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax Action 2 HD 1080P-" tvg-logo="" group-title="USA",USA | Cinemax Action 2 HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18088.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax East HD 1080P-" tvg-logo="" group-title="USA",USA | Cinemax East HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18087.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinemax West HD 1080P-" tvg-logo="" group-title="USA",USA | Cinemax West HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18086.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox 11 Los Angeles HD 1080P-" tvg-logo="" group-title="USA",USA | Fox 11 Los Angeles HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18085.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO 2 HD 1080P-" tvg-logo="" group-title="USA",USA | HBO 2 HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18084.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO 2 West HD 1080P-" tvg-logo="" group-title="USA",USA | HBO 2 West HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18083.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Plus West HD 1080P-" tvg-logo="" group-title="USA",USA | HBO Plus West HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18082.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Signature HD  H1080P-" tvg-logo="" group-title="USA",USA | HBO Signature HD  H1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18081.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | IndiePlex HD 1080P-" tvg-logo="" group-title="USA",USA | IndiePlex HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18080.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | MoreMax HD 1080P-" tvg-logo="" group-title="USA",USA | MoreMax HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18079.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | MovieMax HD 1080P-" tvg-logo="" group-title="USA",USA | MovieMax HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18078.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Los Angeles HD 1080P-" tvg-logo="" group-title="USA",USA | NBC Los Angeles HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18077.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | OuterMax HD 1080P-" tvg-logo="" group-title="USA",USA | OuterMax HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18076.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | RetroPlex HD 1080P-" tvg-logo="" group-title="USA",USA | RetroPlex HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18075.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime West HD 1080P-" tvg-logo="" group-title="USA",USA | Showtime West HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18074.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Black HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Black HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18073.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema East HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Cinema East HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18072.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Cinema HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18071.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Cinema West HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Cinema West HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18070.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Comedy East HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Comedy East HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18069.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Comedy HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Comedy HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18068.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz East HD 1080P-" tvg-logo="" group-title="USA",USA | Starz East HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18067.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Edge HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18066.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Edge West HD 1080p-" tvg-logo="" group-title="USA",USA | Starz Edge West HD 1080p-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18065.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore 2 HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore 2 HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18064.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Action 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore Action 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18063.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Black HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore Black HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18062.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Classic HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore Classic HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18061.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore East HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore East HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18060.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18059.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Suspense HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore Suspense HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18058.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore West HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore West HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18057.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Encore Western HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Encore Western HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18056.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz Family HD 1080P-" tvg-logo="" group-title="USA",USA | Starz Family HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18055.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Starz West HD 1080P-" tvg-logo="" group-title="USA",USA | Starz West HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18054.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Straz Encore Family HD 1080P-" tvg-logo="" group-title="USA",USA | Straz Encore Family HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18053.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Network HD 1080P-" tvg-logo="" group-title="USA",USA | UFC Network HD 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18052.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Univision Los Angeles 1080P-" tvg-logo="" group-title="USA",USA | Univision Los Angeles 1080P-
+http://wagnet.club:55055/live/gregkodi/gregkodi/18051.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Top Gear" tvg-logo="" group-title="24/7",24/7 | Top Gear
+http://wagnet.club:55055/live/gregkodi/gregkodi/18000.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="" group-title="24/7",24/7 | The Big Bang Theory
+http://wagnet.club:55055/live/gregkodi/gregkodi/17997.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Simpsons" tvg-logo="" group-title="24/7",24/7 | The Simpsons
+http://wagnet.club:55055/live/gregkodi/gregkodi/18001.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Octonauts" tvg-logo="" group-title="24/7",24/7 | Octonauts
+http://wagnet.club:55055/live/gregkodi/gregkodi/18002.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Paw Patrol" tvg-logo="" group-title="24/7",24/7 | Paw Patrol
+http://wagnet.club:55055/live/gregkodi/gregkodi/17999.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig" tvg-logo="" group-title="24/7",24/7 | Peppa Pig
+http://wagnet.club:55055/live/gregkodi/gregkodi/17998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Friends" tvg-logo="" group-title="24/7",24/7 | Friends
+http://wagnet.club:55055/live/gregkodi/gregkodi/18182.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Gavin And Stacey" tvg-logo="" group-title="24/7",24/7 | Gavin And Stacey
+http://wagnet.club:55055/live/gregkodi/gregkodi/18183.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Married With Children" tvg-logo="" group-title="24/7",24/7 | Married With Children
+http://wagnet.club:55055/live/gregkodi/gregkodi/18184.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Modern Family" tvg-logo="" group-title="24/7",24/7 | Modern Family
+http://wagnet.club:55055/live/gregkodi/gregkodi/18185.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Red Dwarf" tvg-logo="" group-title="24/7",24/7 | Red Dwarf
+http://wagnet.club:55055/live/gregkodi/gregkodi/18186.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-1" tvg-logo="" group-title="Adult",Alba XXX-1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17819.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-2" tvg-logo="" group-title="Adult",Alba XXX-2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-3" tvg-logo="" group-title="Adult",Alba XXX-3
+http://wagnet.club:55055/live/gregkodi/gregkodi/17817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-4" tvg-logo="" group-title="Adult",Alba XXX-4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-5" tvg-logo="" group-title="Adult",Alba XXX-5
+http://wagnet.club:55055/live/gregkodi/gregkodi/17815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-6" tvg-logo="" group-title="Adult",Alba XXX-6
+http://wagnet.club:55055/live/gregkodi/gregkodi/17814.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-HD1" tvg-logo="" group-title="Adult",Alba XXX-HD1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17813.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alba XXX-HD2" tvg-logo="" group-title="Adult",Alba XXX-HD2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17812.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers Europe" tvg-logo="" group-title="Adult",XXX: Brazzers Europe
+http://wagnet.club:55055/live/gregkodi/gregkodi/17762.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Brazzers USA" tvg-logo="" group-title="Adult",XXX: Brazzers USA
+http://wagnet.club:55055/live/gregkodi/gregkodi/17761.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel" tvg-logo="" group-title="Adult",XXX: Dorcel
+http://wagnet.club:55055/live/gregkodi/gregkodi/17760.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Dusk" tvg-logo="" group-title="Adult",XXX: Dusk
+http://wagnet.club:55055/live/gregkodi/gregkodi/17759.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Eroxx FHD" tvg-logo="" group-title="Adult",XXX: Eroxx FHD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17758.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hot" tvg-logo="" group-title="Adult",XXX: Hot
+http://wagnet.club:55055/live/gregkodi/gregkodi/17757.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler" tvg-logo="" group-title="Adult",XXX: Hustler
+http://wagnet.club:55055/live/gregkodi/gregkodi/17756.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Penthouse HD" tvg-logo="" group-title="Adult",XXX: Penthouse HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17754.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Playboy" tvg-logo="" group-title="Adult",XXX: Playboy
+http://wagnet.club:55055/live/gregkodi/gregkodi/17753.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Vivid Tv" tvg-logo="" group-title="Adult",XXX: Vivid Tv
+http://wagnet.club:55055/live/gregkodi/gregkodi/17749.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Brazzers TV Europe ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Brazzers TV Europe ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17810.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Cento X Cento ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Cento X Cento ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17809.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Dorcel HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Dorcel HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17808.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Dorcel XXX HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Dorcel XXX HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17807.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Dusk ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Dusk ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17806.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Erox HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Erox HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17805.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Eroxxx HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Eroxxx HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17804.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Evil Angel HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Evil Angel HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17803.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Exotica Plus ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Exotica Plus ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17802.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: French Lover ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: French Lover ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17801.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Hot ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Hot ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17799.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: HUSTLER TV ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: HUSTLER TV ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17800.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Nuart TV ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Nuart TV ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17797.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: O la la TV ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: O la la TV ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17796.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Passion XXX ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Passion XXX ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17795.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Penthouse HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Penthouse HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17793.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic 2 HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic 2 HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17792.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic 3 HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic 3 HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17791.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic 4 HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic 4 HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17790.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic 5 HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic 5 HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17789.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic 6 HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic 6 HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17788.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic 7 HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic 7 HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17787.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic 8 HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic 8 HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17786.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink Erotic HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink Erotic HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17785.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Pink O TV ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Pink O TV ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17784.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Playboy ( 18)" tvg-logo="" group-title="Adult",XXX18: Playboy ( 18)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17783.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Reality Kings ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Reality Kings ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17781.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Redlight HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Redlight HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17780.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Russian Night ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Russian Night ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17779.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Sct ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Sct ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17778.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Sextreme ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Sextreme ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17776.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Super One ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Super One ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17775.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Venus TV ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Venus TV ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17774.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: Visit-X TV HD ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: Visit-X TV HD ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17772.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: X Bizarre ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: X Bizarre ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17771.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: X Bunga Bunga ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: X Bunga Bunga ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17770.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: X Desire ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: X Desire ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17769.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: XXL ( 18)" tvg-logo="" group-title="Adult",XXX18: XXL ( 18)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17767.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX18: XY Plus ( 18) (Live)" tvg-logo="" group-title="Adult",XXX18: XY Plus ( 18) (Live)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17765.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 Veronica Avluv" tvg-logo="" group-title="VOD 18+ Only",3 Veronica Avluv
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2 Veronica Avluv, Aiden Starr" tvg-logo="" group-title="VOD 18+ Only",2 Veronica Avluv, Aiden Starr
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Veronica Avluv" tvg-logo="" group-title="VOD 18+ Only",4 Veronica Avluv
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15918.mkv
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="PPV: Sky sports Box Office FHD" tvg-logo="" group-title="PPV fight/wresting",PPV: Sky sports Box Office FHD
+http://hawkeye.dynns.com:25461/live/johnnywag/pqdy8a08er/2141.ts
+#EXTINF:-1 tvg-id="itvboxoffice.uk" tvg-name="PPV: ITV Box Office HD" tvg-logo="" group-title="PPV fight/wresting",PPV: ITV Box Office HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17748.ts
+#EXTINF:-1 tvg-id="" tvg-name="CELTIC FC TV ( LIVE ON MATCHES )" tvg-logo="" group-title="Live Scots home games",CELTIC FC TV ( LIVE ON MATCHES )
+http://wagnet.club:55055/live/gregkodi/gregkodi/17142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rangers TV" tvg-logo="" group-title="Live Scots home games",Rangers TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aberdeen TV" tvg-logo="" group-title="Live Scots home games",Aberdeen TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17714.ts
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-name="BEIN: BEINSPORT 1 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 1 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17184.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 2 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 2 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17183.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 3 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 3 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17182.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 4 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 4 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17181.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 5 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 5 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17180.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 6 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 6 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17179.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 7 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 7 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17178.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 8 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 8 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17177.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 9 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 9 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17176.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 10 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 10 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17175.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 11 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 11 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17174.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEINSPORT 12 HD" tvg-logo="" group-title="Bein Sports",BEIN: BEINSPORT 12 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17173.ts
+#EXTINF:-1 tvg-id="rteone.ie" tvg-name="RTE 1 HD" tvg-logo="" group-title="Irish",RTE 1 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17523.ts
+#EXTINF:-1 tvg-id="rtetwo.ie" tvg-name="RTE 2 HD" tvg-logo="" group-title="Irish",RTE 2 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17522.ts
+#EXTINF:-1 tvg-id="rtejr.ie" tvg-name="RTE JR" tvg-logo="" group-title="Irish",RTE JR
+http://wagnet.club:55055/live/gregkodi/gregkodi/17393.ts
+#EXTINF:-1 tvg-id="3e.ie" tvg-name="3e" tvg-logo="" group-title="Irish",3e
+http://wagnet.club:55055/live/gregkodi/gregkodi/17526.ts
+#EXTINF:-1 tvg-id="be3.ie" tvg-name="Be3" tvg-logo="" group-title="Irish",Be3
+http://wagnet.club:55055/live/gregkodi/gregkodi/17663.ts
+#EXTINF:-1 tvg-id="tv3.ie" tvg-name="TV3" tvg-logo="" group-title="Irish",TV3
+http://wagnet.club:55055/live/gregkodi/gregkodi/17665.ts
+#EXTINF:-1 tvg-id="tg4.ie" tvg-name="TG4" tvg-logo="" group-title="Irish",TG4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17664.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN: TSN 1" tvg-logo="" group-title="SEASON PASS",TSN: TSN 1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17189.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN: TSN 2" tvg-logo="" group-title="SEASON PASS",TSN: TSN 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17188.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN: TSN 3" tvg-logo="" group-title="SEASON PASS",TSN: TSN 3
+http://wagnet.club:55055/live/gregkodi/gregkodi/17187.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN: TSN 4" tvg-logo="" group-title="SEASON PASS",TSN: TSN 4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17186.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSN: TSN 5" tvg-logo="" group-title="SEASON PASS",TSN: TSN 5
+http://wagnet.club:55055/live/gregkodi/gregkodi/17185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="SEASON PASS",Arena Sport 1 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="SEASON PASS",Arena Sport 2 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17979.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="SEASON PASS",Arena Sport 3 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="SEASON PASS",Arena Sport 4 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="SEASON PASS",Arena Sport 5 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 HR" tvg-logo="" group-title="SEASON PASS",Arena Sport 6 HR
+http://wagnet.club:55055/live/gregkodi/gregkodi/17676.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 1" tvg-logo="" group-title="SEASON PASS",CRO: Sport Klub 1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17980.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 2" tvg-logo="" group-title="SEASON PASS",CRO: Sport Klub 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17981.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 3" tvg-logo="" group-title="SEASON PASS",CRO: Sport Klub 3
+http://wagnet.club:55055/live/gregkodi/gregkodi/17982.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 4" tvg-logo="" group-title="SEASON PASS",CRO: Sport Klub 4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17983.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 5" tvg-logo="" group-title="SEASON PASS",CRO: Sport Klub 5
+http://wagnet.club:55055/live/gregkodi/gregkodi/17984.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SPORTSNET WORLD" tvg-logo="" group-title="SEASON PASS",UK: SPORTSNET WORLD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17171.ts
+#EXTINF:-1 tvg-id="USA/CA: SPORTS NET 360 HD" tvg-name="UK: SPORTSNET 360." tvg-logo="" group-title="SEASON PASS",UK: SPORTSNET 360.
+http://wagnet.club:55055/live/gregkodi/gregkodi/18390.ts
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK: AL JAZEERA NEWS" tvg-logo="" group-title="News",UK: AL JAZEERA NEWS
+http://wagnet.club:55055/live/gregkodi/gregkodi/18395.ts
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS" tvg-logo="" group-title="News",UK: BBC NEWS
+http://wagnet.club:55055/live/gregkodi/gregkodi/17991.ts
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK: CNBC NEWS" tvg-logo="" group-title="News",UK: CNBC NEWS
+http://wagnet.club:55055/live/gregkodi/gregkodi/18394.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN News" tvg-logo="" group-title="USA",US: CNN News
+http://wagnet.club:55055/live/gregkodi/gregkodi/18164.ts
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: EURONEWS" tvg-logo="" group-title="News",UK: EURONEWS
+http://wagnet.club:55055/live/gregkodi/gregkodi/18396.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: FOX NEWS" tvg-logo="" group-title="News",UK: FOX NEWS
+http://wagnet.club:55055/live/gregkodi/gregkodi/17992.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC News" tvg-logo="" group-title="USA",US: MSNBC News
+http://wagnet.club:55055/live/gregkodi/gregkodi/18160.ts
+#EXTINF:-1 tvg-id="rtenewsnow.ie" tvg-name="RTE NEWS NOW" tvg-logo="" group-title="Irish",RTE NEWS NOW
+http://wagnet.club:55055/live/gregkodi/gregkodi/17993.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: SKY NEWS" tvg-logo="" group-title="News",UK: SKY NEWS
+http://wagnet.club:55055/live/gregkodi/gregkodi/17391.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action SD" tvg-logo="" group-title="Sky Sports",Sky Sports Action SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17658.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action SD 2" tvg-logo="" group-title="Sky Sports",Sky Sports Action SD 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17968.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="" group-title="Sky Sports",Sky Sports Arena HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17657.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena HD 2" tvg-logo="" group-title="Sky Sports",Sky Sports Arena HD 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17969.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket SD" tvg-logo="" group-title="Sky Sports",Sky Sports Cricket SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17656.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="" group-title="Sky Sports",Sky Sports Cricket HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17727.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 SD" tvg-logo="" group-title="Sky Sports",Sky Sports F1 SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17655.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 SD 2" tvg-logo="" group-title="Sky Sports",Sky Sports F1 SD 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17722.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football SD" tvg-logo="" group-title="Sky Sports",Sky Sports Football SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17654.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football SD 2" tvg-logo="" group-title="Sky Sports",Sky Sports Football SD 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17726.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="" group-title="Sky Sports",Sky Sports Golf HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17653.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf SD" tvg-logo="" group-title="Sky Sports",Sky Sports Golf SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17725.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event SD" tvg-logo="" group-title="Sky Sports",Sky Sports Main Event SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17652.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="" group-title="Sky Sports",Sky Sports Main Event HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17724.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix SD" tvg-logo="" group-title="Sky Sports",Sky Sports Mix SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17651.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix SD 2" tvg-logo="" group-title="Sky Sports",Sky Sports Mix SD 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17721.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD" tvg-logo="" group-title="Sky Sports",Sky Sports News HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17650.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD 2" tvg-logo="" group-title="Sky Sports",Sky Sports News HD 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17728.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League SD" tvg-logo="" group-title="Sky Sports",Sky Sports Premier League SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17649.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="" group-title="Sky Sports",Sky Sports Premier League HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17723.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="Sky Sports",BT Sport 1 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17662.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD Backup" tvg-logo="" group-title="Sky Sports",BT Sport 1 HD Backup
+http://wagnet.club:55055/live/gregkodi/gregkodi/17971.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="Sky Sports",BT Sport 2 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17661.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD Backup" tvg-logo="" group-title="Sky Sports",BT Sport 2 HD Backup
+http://wagnet.club:55055/live/gregkodi/gregkodi/17972.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="Sky Sports",BT Sport 3 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17660.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD Backup" tvg-logo="" group-title="Sky Sports",BT Sport 3 HD Backup
+http://wagnet.club:55055/live/gregkodi/gregkodi/17973.ts
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sport ESPN" tvg-logo="" group-title="Sky Sports",BT Sport ESPN
+http://wagnet.club:55055/live/gregkodi/gregkodi/17659.ts
+#EXTINF:-1 tvg-id="motorstv.uk" tvg-name="Motor Sport Tv" tvg-logo="" group-title="Sky Sports",Motor Sport Tv
+http://wagnet.club:55055/live/gregkodi/gregkodi/17648.ts
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="Racing UK HD" tvg-logo="" group-title="Sky Sports",Racing UK HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17666.ts
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="Racing UK HD Backup" tvg-logo="" group-title="Sky Sports",Racing UK HD Backup
+http://wagnet.club:55055/live/gregkodi/gregkodi/17975.ts
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="At the Races SD" tvg-logo="" group-title="Sky Sports",At the Races SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17712.ts
+#EXTINF:-1 tvg-id="attheraces.uk" tvg-name="At The Races SD Backup" tvg-logo="" group-title="Sky Sports",At The Races SD Backup
+http://wagnet.club:55055/live/gregkodi/gregkodi/17974.ts
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="LFC TV" tvg-logo="" group-title="Sky Sports",LFC TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17667.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="MUTV HD" tvg-logo="" group-title="Sky Sports",MUTV HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17668.ts
+#EXTINF:-1 tvg-id="chelseatv.uk" tvg-name="Chelsea TV HD" tvg-logo="" group-title="Sky Sports",Chelsea TV HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17713.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="Sky Sports",Eurosport 1 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17669.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="Sky Sports",Eurosport 2 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17670.ts
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="Boxnation HD" tvg-logo="" group-title="Sky Sports",Boxnation HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17740.ts
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="Freesports SD" tvg-logo="" group-title="Sky Sports",Freesports SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17710.ts
+#EXTINF:-1 tvg-id="eirsport1.ie" tvg-name="Eir Sports 1" tvg-logo="" group-title="Sky Sports",Eir Sports 1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17708.ts
+#EXTINF:-1 tvg-id="eirsport2.ie" tvg-name="Eir Sports 2" tvg-logo="" group-title="Sky Sports",Eir Sports 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17709.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="NBC Golf HD" tvg-logo="" group-title="Sky Sports",NBC Golf HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Betfred TV" tvg-logo="" group-title="Sky Sports",Betfred TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17735.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIS Europe TV" tvg-logo="" group-title="Sky Sports",SIS Europe TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ladbrokes TV" tvg-logo="" group-title="Sky Sports",Ladbrokes TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coral TV" tvg-logo="" group-title="Sky Sports",Coral TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17736.ts
+#EXTINF:-1 tvg-id="" tvg-name="William Hill TV" tvg-logo="" group-title="Sky Sports",William Hill TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paddy Power TV" tvg-logo="" group-title="Sky Sports",Paddy Power TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17738.ts
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK: MTV BASE" tvg-logo="" group-title="Music",UK: MTV BASE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17455.ts
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV CLASSIC" tvg-logo="" group-title="Music",UK: MTV CLASSIC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17451.ts
+#EXTINF:-1 tvg-id="mtvdance.uk" tvg-name="UK: MTV DANCE" tvg-logo="" group-title="Music",UK: MTV DANCE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17450.ts
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS" tvg-logo="" group-title="Music",UK: MTV HITS
+http://wagnet.club:55055/live/gregkodi/gregkodi/17448.ts
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK: MTV MUSIC" tvg-logo="" group-title="Music",UK: MTV MUSIC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17446.ts
+#EXTINF:-1 tvg-id="mtvrocks.uk" tvg-name="UK: MTV ROCKS" tvg-logo="" group-title="Music",UK: MTV ROCKS
+http://wagnet.club:55055/live/gregkodi/gregkodi/17445.ts
+#EXTINF:-1 tvg-id="mtvomg.uk" tvg-name="UK:(MTV OMG)" tvg-logo="" group-title="Music",UK:(MTV OMG)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17444.ts
+#EXTINF:-1 tvg-id="vh1.uk" tvg-name="UK:VH1" tvg-logo="" group-title="Music",UK:VH1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17443.ts
+#EXTINF:-1 tvg-id="thevault.uk" tvg-name="UK: THE VAULT" tvg-logo="" group-title="Music",UK: THE VAULT
+http://wagnet.club:55055/live/gregkodi/gregkodi/17431.ts
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK: MAGIC" tvg-logo="" group-title="Music",UK: MAGIC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17424.ts
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK: 4MUSIC" tvg-logo="" group-title="Music",UK: 4MUSIC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17439.ts
+#EXTINF:-1 tvg-id="hearttv.uk" tvg-name="UK: HEART TV" tvg-logo="" group-title="Music",UK: HEART TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17426.ts
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="UK: DISNEY CHANNEL" tvg-logo="" group-title="Kids",UK: DISNEY CHANNEL
+http://wagnet.club:55055/live/gregkodi/gregkodi/17402.ts
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="UK: DISNEY JR" tvg-logo="" group-title="Kids",UK: DISNEY JR
+http://wagnet.club:55055/live/gregkodi/gregkodi/17400.ts
+#EXTINF:-1 tvg-id="disneyxd.uk" tvg-name="UK: DISNEY XD HD" tvg-logo="" group-title="Kids",UK: DISNEY XD HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17399.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: CARTOON NETWORK" tvg-logo="" group-title="Kids",UK: CARTOON NETWORK
+http://wagnet.club:55055/live/gregkodi/gregkodi/17409.ts
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK: CARTOONITO" tvg-logo="" group-title="Kids",UK: CARTOONITO
+http://wagnet.club:55055/live/gregkodi/gregkodi/17408.ts
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK: NICK JR" tvg-logo="" group-title="Kids",UK: NICK JR
+http://wagnet.club:55055/live/gregkodi/gregkodi/17406.ts
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK: NICK JR TOO" tvg-logo="" group-title="Kids",UK: NICK JR TOO
+http://wagnet.club:55055/live/gregkodi/gregkodi/17405.ts
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: NICKELODEON" tvg-logo="" group-title="Kids",UK: NICKELODEON
+http://wagnet.club:55055/live/gregkodi/gregkodi/17404.ts
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK: NICKTOONS" tvg-logo="" group-title="Kids",UK: NICKTOONS
+http://wagnet.club:55055/live/gregkodi/gregkodi/17403.ts
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK: TINY POP" tvg-logo="" group-title="Kids",UK: TINY POP
+http://wagnet.club:55055/live/gregkodi/gregkodi/17395.ts
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK: BABY TV" tvg-logo="" group-title="Kids",UK: BABY TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17394.ts
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC" tvg-logo="" group-title="Kids",UK: CBBC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17398.ts
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBEEBIES HD" tvg-logo="" group-title="Kids",UK: CBEEBIES HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17396.ts
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Action HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17639.ts
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="Sky Cinema Comedy SD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Comedy SD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17638.ts
+#EXTINF:-1 tvg-id="skycrimethriller.uk" tvg-name="Sky Cinema Crime & Thriller HD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Crime & Thriller HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17624.ts
+#EXTINF:-1 tvg-id="skydisney.uk" tvg-name="Sky Cinema Disney FHD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Disney FHD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17636.ts
+#EXTINF:-1 tvg-id="skycinemaromance.uk" tvg-name="Sky Cinema Drama & Romance HD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Drama & Romance HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17633.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Family FHD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17632.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere HD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Premiere HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17628.ts
+#EXTINF:-1 tvg-id="skypremiereplus1.uk" tvg-name="Sky Cinema Premier +1" tvg-logo="" group-title="Sky Cinema",Sky Cinema Premier +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18385.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Scifi & Horror HD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Scifi & Horror HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17627.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Select HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17626.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Modern Greats HD" tvg-logo="" group-title="Sky Cinema",Sky Cinema Modern Greats HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18015.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="" group-title="Sky Cinema",Sky Cinema Hits
+http://wagnet.club:55055/live/gregkodi/gregkodi/18397.ts
+#EXTINF:-1 tvg-id="tcm.uk" tvg-name="UK: TCM HD" tvg-logo="" group-title="Sky Cinema",UK: TCM HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17470.ts
+#EXTINF:-1 tvg-id="truemovies.uk" tvg-name="UK: TRUE MOVIES" tvg-logo="" group-title="Sky Cinema",UK: TRUE MOVIES
+http://wagnet.club:55055/live/gregkodi/gregkodi/17467.ts
+#EXTINF:-1 tvg-id="movies4men.uk" tvg-name="UK: MOVIES 4 MEN" tvg-logo="" group-title="Sky Cinema",UK: MOVIES 4 MEN
+http://wagnet.club:55055/live/gregkodi/gregkodi/17468.ts
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: FILM 4" tvg-logo="" group-title="Sky Cinema",UK: FILM 4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17471.ts
+#EXTINF:-1 tvg-id="film4plus1.uk" tvg-name="UK: FILM 4 +1" tvg-logo="" group-title="Sky Cinema",UK: FILM 4 +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18386.ts
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="UK: HORROR CHANNEL" tvg-logo="" group-title="Sky Cinema",UK: HORROR CHANNEL
+http://wagnet.club:55055/live/gregkodi/gregkodi/17469.ts
+#EXTINF:-1 tvg-id="sonymovies.uk" tvg-name="UK: SONY MOVIES" tvg-logo="" group-title="Sky Cinema",UK: SONY MOVIES
+http://wagnet.club:55055/live/gregkodi/gregkodi/17746.ts
+#EXTINF:-1 tvg-id="movies24.uk" tvg-name="UK: MOVIES24" tvg-logo="" group-title="Sky Cinema",UK: MOVIES24
+http://wagnet.club:55055/live/gregkodi/gregkodi/17747.ts
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL" tvg-logo="" group-title="Documentaries",UK: DISCOVERY CHANNEL
+http://wagnet.club:55055/live/gregkodi/gregkodi/17516.ts
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="" group-title="Documentaries",UK: DISCOVERY HISTORY
+http://wagnet.club:55055/live/gregkodi/gregkodi/17514.ts
+#EXTINF:-1 tvg-id="homeandhealth.uk" tvg-name="UK: DISCOVERY HOME & HEATH" tvg-logo="" group-title="Documentaries",UK: DISCOVERY HOME & HEATH
+http://wagnet.club:55055/live/gregkodi/gregkodi/17512.ts
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK: DISCOVERY INVESTIGATION" tvg-logo="" group-title="Documentaries",UK: DISCOVERY INVESTIGATION
+http://wagnet.club:55055/live/gregkodi/gregkodi/17511.ts
+#EXTINF:-1 tvg-id="discoveryshed.uk" tvg-name="UK: DISCOVERY SHED" tvg-logo="" group-title="Documentaries",UK: DISCOVERY SHED
+http://wagnet.club:55055/live/gregkodi/gregkodi/17509.ts
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK: DISCOVERY TURBO" tvg-logo="" group-title="Documentaries",UK: DISCOVERY TURBO
+http://wagnet.club:55055/live/gregkodi/gregkodi/17507.ts
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK:DISCOVERY SCIENCE" tvg-logo="" group-title="Documentaries",UK:DISCOVERY SCIENCE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17505.ts
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK: ANIMAL PLANET" tvg-logo="" group-title="Documentaries",UK: ANIMAL PLANET
+http://wagnet.club:55055/live/gregkodi/gregkodi/17504.ts
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK: HISTORY" tvg-logo="" group-title="Documentaries",UK: HISTORY
+http://wagnet.club:55055/live/gregkodi/gregkodi/17500.ts
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: H2" tvg-logo="" group-title="Documentaries",UK: H2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17499.ts
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: NAT GEO WILD" tvg-logo="" group-title="Documentaries",UK: NAT GEO WILD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17502.ts
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: NAT GEOGRAPHIC" tvg-logo="" group-title="Documentaries",UK: NAT GEOGRAPHIC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17501.ts
+#EXTINF:-1 tvg-id="travelchannel.uk" tvg-name="UK: TRAVEL CHANNEL" tvg-logo="" group-title="Documentaries",UK: TRAVEL CHANNEL
+http://wagnet.club:55055/live/gregkodi/gregkodi/18016.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISCOVERY VELOCITY." tvg-logo="" group-title="Documentaries",UK: DISCOVERY VELOCITY.
+http://wagnet.club:55055/live/gregkodi/gregkodi/17204.ts
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC ONE" tvg-logo="" group-title="Entertainment",UK: BBC ONE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17572.ts
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC ONE FHD" tvg-logo="" group-title="Entertainment",UK: BBC ONE FHD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17988.ts
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO" tvg-logo="" group-title="Entertainment",UK: BBC TWO
+http://wagnet.club:55055/live/gregkodi/gregkodi/17571.ts
+#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="UK: BBC ALBA" tvg-logo="" group-title="Entertainment",UK: BBC ALBA
+http://wagnet.club:55055/live/gregkodi/gregkodi/18009.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV" tvg-logo="" group-title="Entertainment",UK: ITV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17570.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV HD" tvg-logo="" group-title="Entertainment",UK: ITV HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18180.ts
+#EXTINF:-1 tvg-id="itv1angliaplus1.uk" tvg-name="UK: ITV 1 +1" tvg-logo="" group-title="Entertainment",UK: ITV 1 +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18376.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: CHANNEL 4 HD" tvg-logo="" group-title="Entertainment",UK: CHANNEL 4 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17569.ts
+#EXTINF:-1 tvg-id="channel4plus1.uk" tvg-name="UK: CHANNEL 4 +1." tvg-logo="" group-title="Entertainment",UK: CHANNEL 4 +1.
+http://wagnet.club:55055/live/gregkodi/gregkodi/17741.ts
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: CHANNEL 5 HD" tvg-logo="" group-title="Entertainment",UK: CHANNEL 5 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17568.ts
+#EXTINF:-1 tvg-id="channel5plus1.uk" tvg-name="UK: CHANNEL 5 +1" tvg-logo="" group-title="Entertainment",UK: CHANNEL 5 +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18382.ts
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="UK: SKY 1 HD" tvg-logo="" group-title="Entertainment",UK: SKY 1 HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17567.ts
+#EXTINF:-1 tvg-id="skyliving.uk" tvg-name="UK: SKY LIVING" tvg-logo="" group-title="Entertainment",UK: SKY LIVING
+http://wagnet.club:55055/live/gregkodi/gregkodi/17565.ts
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: SKY ATLANTIC" tvg-logo="" group-title="Entertainment",UK: SKY ATLANTIC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17564.ts
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: SKY ARTS" tvg-logo="" group-title="Entertainment",UK: SKY ARTS
+http://wagnet.club:55055/live/gregkodi/gregkodi/17563.ts
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK: WATCH" tvg-logo="" group-title="Entertainment",UK: WATCH
+http://wagnet.club:55055/live/gregkodi/gregkodi/17562.ts
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD" tvg-logo="" group-title="Entertainment",UK: GOLD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17561.ts
+#EXTINF:-1 tvg-id="goldplus1.uk" tvg-name="UK: GOLD +1" tvg-logo="" group-title="Entertainment",UK: GOLD +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18380.ts
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: DAVE" tvg-logo="" group-title="Entertainment",UK: DAVE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17560.ts
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: COMEDY CENTRAL HD" tvg-logo="" group-title="Entertainment",UK: COMEDY CENTRAL HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17559.ts
+#EXTINF:-1 tvg-id="universal.uk" tvg-name="UK: UNIVERSAL CHANNEL" tvg-logo="" group-title="Entertainment",UK: UNIVERSAL CHANNEL
+http://wagnet.club:55055/live/gregkodi/gregkodi/17558.ts
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV 2" tvg-logo="" group-title="Entertainment",UK: ITV 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17557.ts
+#EXTINF:-1 tvg-id="itv2plus1.uk" tvg-name="UK: ITV 2 +1" tvg-logo="" group-title="Entertainment",UK: ITV 2 +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18377.ts
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV 3" tvg-logo="" group-title="Entertainment",UK: ITV 3
+http://wagnet.club:55055/live/gregkodi/gregkodi/17556.ts
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV 4" tvg-logo="" group-title="Entertainment",UK: ITV 4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17555.ts
+#EXTINF:-1 tvg-id="itv4plus1.uk" tvg-name="UK: ITV 4 +1" tvg-logo="" group-title="Entertainment",UK: ITV 4 +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18378.ts
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK: SKY 2" tvg-logo="" group-title="Entertainment",UK: SKY 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17566.ts
+#EXTINF:-1 tvg-id="fox.uk" tvg-name="UK: FOX HD" tvg-logo="" group-title="Entertainment",UK: FOX HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17553.ts
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK: COMEDY XTRA" tvg-logo="" group-title="Entertainment",UK: COMEDY XTRA
+http://wagnet.club:55055/live/gregkodi/gregkodi/17551.ts
+#EXTINF:-1 tvg-id="comedycentralextraplus1.uk" tvg-name="UK: COMEDY XTRA +1" tvg-logo="" group-title="Entertainment",UK: COMEDY XTRA +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17745.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5 STAR" tvg-logo="" group-title="Entertainment",UK: 5 STAR
+http://wagnet.club:55055/live/gregkodi/gregkodi/17530.ts
+#EXTINF:-1 tvg-id="5starplus1.uk" tvg-name="UK: 5 STAR +1." tvg-logo="" group-title="Entertainment",UK: 5 STAR +1.
+http://wagnet.club:55055/live/gregkodi/gregkodi/17743.ts
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK: 5USA" tvg-logo="" group-title="Entertainment",UK: 5USA
+http://wagnet.club:55055/live/gregkodi/gregkodi/17532.ts
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: ITVBE" tvg-logo="" group-title="Entertainment",UK: ITVBE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17540.ts
+#EXTINF:-1 tvg-id="itvbeplus1.uk" tvg-name="UK: ITVBE +1" tvg-logo="" group-title="Entertainment",UK: ITVBE +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18379.ts
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: ALIBI" tvg-logo="" group-title="Entertainment",UK: ALIBI
+http://wagnet.club:55055/live/gregkodi/gregkodi/17550.ts
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK: FOOD NETWORK" tvg-logo="" group-title="Entertainment",UK: FOOD NETWORK
+http://wagnet.club:55055/live/gregkodi/gregkodi/17733.ts
+#EXTINF:-1 tvg-id="foodnetworkplus1.uk" tvg-name="UK: FOOD NETWORK +1" tvg-logo="" group-title="Entertainment",UK: FOOD NETWORK +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18388.ts
+#EXTINF:-1 tvg-id="goodfood.uk" tvg-name="UK: GOOD FOOD" tvg-logo="" group-title="Entertainment",UK: GOOD FOOD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17549.ts
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4" tvg-logo="" group-title="Entertainment",UK: E4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17547.ts
+#EXTINF:-1 tvg-id="e4plus1.uk" tvg-name="UK: E4 +1" tvg-logo="" group-title="Entertainment",UK: E4 +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17742.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: MORE4" tvg-logo="" group-title="Entertainment",UK: MORE4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17546.ts
+#EXTINF:-1 tvg-id="more4plus1.uk" tvg-name="UK: MORE4 +1" tvg-logo="" group-title="Entertainment",UK: MORE4 +1
+http://wagnet.club:55055/live/gregkodi/gregkodi/18381.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4SEVEN" tvg-logo="" group-title="Entertainment",UK: 4SEVEN
+http://wagnet.club:55055/live/gregkodi/gregkodi/17545.ts
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SYFY HD" tvg-logo="" group-title="Entertainment",UK: SYFY HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/17466.ts
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC" tvg-logo="" group-title="Entertainment",UK: TLC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17552.ts
+#EXTINF:-1 tvg-id="home.uk" tvg-name="UK: HOME" tvg-logo="" group-title="Entertainment",UK: HOME
+http://wagnet.club:55055/live/gregkodi/gregkodi/18012.ts
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK: REALLY" tvg-logo="" group-title="Entertainment",UK: REALLY
+http://wagnet.club:55055/live/gregkodi/gregkodi/17537.ts
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK: DRAMA" tvg-logo="" group-title="Entertainment",UK: DRAMA
+http://wagnet.club:55055/live/gregkodi/gregkodi/17535.ts
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E! ENTERTAINMENT" tvg-logo="" group-title="Entertainment",UK: E! ENTERTAINMENT
+http://wagnet.club:55055/live/gregkodi/gregkodi/18011.ts
+#EXTINF:-1 tvg-id="lifetime.uk" tvg-name="UK: LIFETIME" tvg-logo="" group-title="Entertainment",UK: LIFETIME
+http://wagnet.club:55055/live/gregkodi/gregkodi/18013.ts
+#EXTINF:-1 tvg-id="my5.uk" tvg-name="UK: MY5" tvg-logo="" group-title="Entertainment",UK: MY5
+http://wagnet.club:55055/live/gregkodi/gregkodi/18014.ts
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST" tvg-logo="" group-title="Entertainment",UK: QUEST
+http://wagnet.club:55055/live/gregkodi/gregkodi/17544.ts
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK: CHALLENGE" tvg-logo="" group-title="Entertainment",UK: CHALLENGE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17543.ts
+#EXTINF:-1 tvg-id="cbsaction.uk" tvg-name="UK: CBS ACTION" tvg-logo="" group-title="Entertainment",UK: CBS ACTION
+http://wagnet.club:55055/live/gregkodi/gregkodi/17542.ts
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="UK: CBS DRAMA" tvg-logo="" group-title="Entertainment",UK: CBS DRAMA
+http://wagnet.club:55055/live/gregkodi/gregkodi/17990.ts
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK: CBS REALITY" tvg-logo="" group-title="Entertainment",UK: CBS REALITY
+http://wagnet.club:55055/live/gregkodi/gregkodi/17541.ts
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK: PICK TV" tvg-logo="" group-title="Entertainment",UK: PICK TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17538.ts
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK: EDEN" tvg-logo="" group-title="Entertainment",UK: EDEN
+http://wagnet.club:55055/live/gregkodi/gregkodi/17498.ts
+#EXTINF:-1 tvg-id="reallives.uk" tvg-name="UK: REAL LIVES" tvg-logo="" group-title="Entertainment",UK: REAL LIVES
+http://wagnet.club:55055/live/gregkodi/gregkodi/17533.ts
+#EXTINF:-1 tvg-id="spike.uk" tvg-name="UK: SPIKE" tvg-logo="" group-title="Entertainment",UK: SPIKE
+http://wagnet.club:55055/live/gregkodi/gregkodi/17534.ts
+#EXTINF:-1 tvg-id="sonychannel.uk" tvg-name="UK: SONY CHANNEL" tvg-logo="" group-title="Entertainment",UK: SONY CHANNEL
+http://wagnet.club:55055/live/gregkodi/gregkodi/18023.ts
+#EXTINF:-1 tvg-id="DMAX" tvg-name="UK: DMAX" tvg-logo="" group-title="Entertainment",UK: DMAX
+http://wagnet.club:55055/live/gregkodi/gregkodi/17528.ts
+#EXTINF:-1 tvg-id="trutv.uk" tvg-name="UK: TRU TV" tvg-logo="" group-title="Entertainment",UK: TRU TV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17521.ts
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK: YESTERDAY" tvg-logo="" group-title="Entertainment",UK: YESTERDAY
+http://wagnet.club:55055/live/gregkodi/gregkodi/17496.ts
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK: AMC" tvg-logo="" group-title="Entertainment",UK: AMC
+http://wagnet.club:55055/live/gregkodi/gregkodi/17994.ts
+#EXTINF:-1 tvg-id="bet.uk" tvg-name="UK: BET" tvg-logo="" group-title="Entertainment",UK: BET
+http://wagnet.club:55055/live/gregkodi/gregkodi/18010.ts
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: Blaze" tvg-logo="" group-title="Entertainment",UK: Blaze
+http://wagnet.club:55055/live/gregkodi/gregkodi/17495.ts
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-name="UK: DAVE ja Vu" tvg-logo="" group-title="Entertainment",UK: DAVE ja Vu
+http://wagnet.club:55055/live/gregkodi/gregkodi/17529.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: UTV HD" tvg-logo="" group-title="Entertainment",UK: UTV HD
+http://wagnet.club:55055/live/gregkodi/gregkodi/18389.ts
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="UK: STV" tvg-logo="" group-title="Entertainment",UK: STV
+http://wagnet.club:55055/live/gregkodi/gregkodi/17977.ts
+#EXTINF:-1 tvg-id="viceland.uk" tvg-name="UK: VICE LAND" tvg-logo="" group-title="Entertainment",UK: VICE LAND
+http://wagnet.club:55055/live/gregkodi/gregkodi/18017.ts
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK: LONDON LIVE" tvg-logo="" group-title="Entertainment",UK: LONDON LIVE
+http://wagnet.club:55055/live/gregkodi/gregkodi/18187.ts
+#EXTINF:-1 tvg-id="" tvg-name="10x10" tvg-logo="http://wagnet.club:55055/images/egMETBYual2JtfFGigXTA0tGkME_small.jpg" group-title="VOD Movies",10x10
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1D Live" tvg-logo="http://wagnet.club:55055/images/egMETBYual2JtfFGigXTA0tGkME_small.jpg" group-title="VOD Live Concerts",1D Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Bad Moms Christmas" tvg-logo="http://wagnet.club:55055/images/gPNHolu7AGnrB7r5kvJRRTfwMFR_small.jpg" group-title="VOD Movies",A Bad Moms Christmas
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Accident Man" tvg-logo="http://wagnet.club:55055/images/jMRETC4nZ4rL0gBgRH7aPmbTGj6_small.jpg" group-title="VOD Movies",Accident Man
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ACDC Live" tvg-logo="http://wagnet.club:55055/images/1noAVJ5FrRbYHb0NAz94LRVN7W7_small.jpg" group-title="VOD Live Concerts",ACDC Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adele Live At The Royal Albert Hall" tvg-logo="http://wagnet.club:55055/images/8nWgzts03NJyyobaxJ3sUmTsEWf_small.jpg" group-title="VOD Live Concerts",Adele Live At The Royal Albert Hall
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alabama Shakes - LIVE Full Concert" tvg-logo="http://wagnet.club:55055/images/8nWgzts03NJyyobaxJ3sUmTsEWf_small.jpg" group-title="VOD Live Concerts",Alabama Shakes - LIVE Full Concert
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="All Eyez On Me" tvg-logo="http://wagnet.club:55055/images/zmgsaKFWbmZ1Grz4SO0PLNxilv3_small.jpg" group-title="VOD Movies",All Eyez On Me
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="All The Money In The World" tvg-logo="http://wagnet.club:55055/images/zig7XjXQ7aJhyy2KIGDGPPom4uJ_small.jpg" group-title="VOD Movies",All The Money In The World
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Almost Friends" tvg-logo="http://wagnet.club:55055/images/uJMknKxZagbhAYiiMjEaFnsZzRR_small.jpg" group-title="VOD Movies",Almost Friends
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin And The Chipmunks" tvg-logo="http://wagnet.club:55055/images/sAt2yb4dgrpkHjbB9dQaKD9Caor_small.jpg" group-title="VOD Kids Movies",Alvin And The Chipmunks
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Assassin" tvg-logo="http://wagnet.club:55055/images/w6vjeHx3UEaBXIyc8VFqyZYKznD_small.jpg" group-title="VOD Movies",American Assassin
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American History X" tvg-logo="http://wagnet.club:55055/images/fXepRAYOx1qC3wju7XdDGx60775_small.jpg" group-title="VOD Movies",American History X
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Made" tvg-logo="http://wagnet.club:55055/images/bABHpgjJqYDbiOTRzWP9wGPjsrm_small.jpg" group-title="VOD Movies",American Made
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AMY WINEHOUSE - LIVE CONCERT" tvg-logo="http://wagnet.club:55055/images/bABHpgjJqYDbiOTRzWP9wGPjsrm_small.jpg" group-title="VOD Live Concerts",AMY WINEHOUSE - LIVE CONCERT
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apocalypse Now" tvg-logo="http://wagnet.club:55055/images/jcvJ2xcVWU9Wh0hZAxcs103s8nN_small.jpg" group-title="VOD Movies",Apocalypse Now
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby Driver" tvg-logo="http://wagnet.club:55055/images/dN9LbVNNZFITwfaRjl4tmwGWkRg_small.jpg" group-title="VOD Movies",Baby Driver
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Day For The Cut" tvg-logo="http://wagnet.club:55055/images/53Jh8cMCfDOI87XnPBCIiTCwN6U_small.jpg" group-title="VOD Movies",Bad Day For The Cut
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Moms" tvg-logo="http://wagnet.club:55055/images/8sH6LX06JijKQehWo0iSJtbp446_small.jpg" group-title="VOD Movies",Bad Moms
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle Of The Sexes" tvg-logo="http://wagnet.club:55055/images/fWy0A3VojTCb0S2MKtEJjpquubF_small.jpg" group-title="VOD Movies",Battle Of The Sexes
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="http://wagnet.club:55055/images/6HE4xd8zloDqmjMZuhUCCw2UcY1_small.jpg" group-title="VOD Movies",Baywatch
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bee Gees  -  Live Concert Sydney  Australia" tvg-logo="http://wagnet.club:55055/images/6HE4xd8zloDqmjMZuhUCCw2UcY1_small.jpg" group-title="VOD Live Concerts",Bee Gees  -  Live Concert Sydney  Australia
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Before I Wake" tvg-logo="http://wagnet.club:55055/images/sI9neTbF3ECdpf2MpC88EMGJH13_small.jpg" group-title="VOD Movies",Before I Wake
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beyonce Live" tvg-logo="http://wagnet.club:55055/images/4mSFKXkkGbo6SruJzvEAdvUu8m7_small.jpg" group-title="VOD Live Concerts",Beyonce Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner" tvg-logo="http://wagnet.club:55055/images/5ig0kdWz5kxR4PHjyCgyI5khCzd_small.jpg" group-title="VOD Movies",Blade Runner
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley - In Concert (Live)" tvg-logo="http://wagnet.club:55055/images/i4SSJq64nWNAkbNtzJ9S5qBDsIg_small.jpg" group-title="VOD Live Concerts",Bob Marley - In Concert (Live)
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bon Jovi Live In London At Wembley Stadium COMPLETO" tvg-logo="http://wagnet.club:55055/images/i4SSJq64nWNAkbNtzJ9S5qBDsIg_small.jpg" group-title="VOD Live Concerts",Bon Jovi Live In London At Wembley Stadium COMPLETO
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boyzone_Dublin_2000_Live_By_Request" tvg-logo="http://wagnet.club:55055/images/i4SSJq64nWNAkbNtzJ9S5qBDsIg_small.jpg" group-title="VOD Live Concerts",Boyzone_Dublin_2000_Live_By_Request
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Braven" tvg-logo="http://wagnet.club:55055/images/253Bw5I3Zj3e2thCThjO7byEUCL_small.jpg" group-title="VOD Movies",Braven
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brawl In Cell Block 99" tvg-logo="http://wagnet.club:55055/images/lGgIQ10NJ3d0X0uFbbUN4pRrMFZ_small.jpg" group-title="VOD Movies",Brawl In Cell Block 99
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain Underpants: The First Epic Movie" tvg-logo="http://wagnet.club:55055/images/AjHZIkzhPXrRNE4VSLVWx6dirK9_small.jpg" group-title="VOD Kids Movies",Captain Underpants: The First Epic Movie
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cardboard Gangsters" tvg-logo="http://wagnet.club:55055/images/p8xEFeBpEYxA4rUYEvEYUaeYDcG_small.jpg" group-title="VOD Movies",Cardboard Gangsters
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cars 3" tvg-logo="http://wagnet.club:55055/images/fyy1nDC8wm553FCiBDojkJmKLCs_small.jpg" group-title="VOD Kids Movies",Cars 3
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="http://wagnet.club:55055/images/eKi8dIrr8voobbaGzDpe8w0PVbC_small.jpg" group-title="VOD Kids Movies",Coco
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conor McGregor: Notorious" tvg-logo="http://wagnet.club:55055/images/xYMVSRk2n4WpzKMw7V6mKz4Psoh_small.jpg" group-title="VOD Movies",Conor McGregor: Notorious
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear Dictator" tvg-logo="http://wagnet.club:55055/images/2YFCAAZUUpj66gLAMqRhwpY1U34_small.jpg" group-title="VOD Movies",Dear Dictator
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elton John - - London - Radio 2 Live In Hyde Park (Full Concert) (HD)" tvg-logo="http://wagnet.club:55055/images/2YFCAAZUUpj66gLAMqRhwpY1U34_small.jpg" group-title="VOD Live Concerts",Elton John - - London - Radio 2 Live In Hyde Park (Full Concert) (HD)
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Father Figures" tvg-logo="http://wagnet.club:55055/images/avRiH6kbsw3Wxi1J7857alb9yyt_small.jpg" group-title="VOD Movies",Father Figures
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Freed" tvg-logo="http://wagnet.club:55055/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="VOD Movies",Fifty Shades Freed
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finding Nemo" tvg-logo="http://wagnet.club:55055/images/syPWyeeqzTQIxjIUaIFI7d0TyEY_small.jpg" group-title="VOD Kids Movies",Finding Nemo
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Foo Fighters - Live At Hyde Park (Full Concert)" tvg-logo="http://wagnet.club:55055/images/syPWyeeqzTQIxjIUaIFI7d0TyEY_small.jpg" group-title="VOD Live Concerts",Foo Fighters - Live At Hyde Park (Full Concert)
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="From Paris With Love" tvg-logo="http://wagnet.club:55055/images/41yioNp9apJ7xtYDaSxqBfm1p5T_small.jpg" group-title="VOD Movies",From Paris With Love
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frozen" tvg-logo="http://wagnet.club:55055/images/jIjdFXKUNtdf1bwqMrhearpyjMj_small.jpg" group-title="VOD Kids Movies",Frozen
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game Over, Man!" tvg-logo="http://wagnet.club:55055/images/58BnnYeQOTzdMBghZIH1tSH0REx_small.jpg" group-title="VOD Movies",Game Over, Man!
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangster Land" tvg-logo="http://wagnet.club:55055/images/npteMVPwuNqt9lAqDC67Ld4NESf_small.jpg" group-title="VOD Movies",Gangster Land
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garth Brooks Live From Las Vegas" tvg-logo="http://wagnet.club:55055/images/s297tmmKsRYGGarONEHUh95bI5R_small.jpg" group-title="VOD Live Concerts",Garth Brooks Live From Las Vegas
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Geostorm" tvg-logo="http://wagnet.club:55055/images/nrsx0jEaBgXq4PWo7SooSnYJTv_small.jpg" group-title="VOD Movies",Geostorm
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Out" tvg-logo="http://wagnet.club:55055/images/1SwAVYpuLj8KsHxllTF8Dt9dSSX_small.jpg" group-title="VOD Movies",Get Out
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters" tvg-logo="http://wagnet.club:55055/images/3FS3oBdorgczgfCkFi2u8ZTFfpS_small.jpg" group-title="VOD Movies",Ghostbusters
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Girls Trip" tvg-logo="http://wagnet.club:55055/images/fM1h8CwtdileV3zlemXx7UWJjOP_small.jpg" group-title="VOD Movies",Girls Trip
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="http://wagnet.club:55055/images/6WBIzCgmDCYrqh64yDREGeDk9d3_small.jpg" group-title="VOD Movies",Gladiator
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gold " tvg-logo="http://wagnet.club:55055/images/d6AipVF4SDYqxGeivfs3yzsNUs7_small.jpg" group-title="VOD Movies",Gold 
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Good Will Hunting" tvg-logo="http://wagnet.club:55055/images/jq8LjngZ7XZEQge5JFTdOGMrHyZ_small.jpg" group-title="VOD Movies",Good Will Hunting
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GoodFellas" tvg-logo="http://wagnet.club:55055/images/hAPeXBdGDGmXRPj4OZZ0poH65Iu_small.jpg" group-title="VOD Movies",GoodFellas
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guns N Roses Live" tvg-logo="http://wagnet.club:55055/images/nrQNImvWzMugfhZGqDlg3dGnUmS_small.jpg" group-title="VOD Live Concerts",Guns N Roses Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hacksaw Ridge" tvg-logo="http://wagnet.club:55055/images/bndiUFfJxNd2fYx8XO610L9a07m_small.jpg" group-title="VOD Movies",Hacksaw Ridge
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hampstead" tvg-logo="http://wagnet.club:55055/images/4cGSmYEMpmWSiyb1RHvgCe4tgsv_small.jpg" group-title="VOD Movies",Hampstead
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hangman" tvg-logo="http://wagnet.club:55055/images/iEpxKeX7SE3aLm9dTRIuk7o2kDA_small.jpg" group-title="VOD Movies",Hangman
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Family" tvg-logo="http://wagnet.club:55055/images/r3xY0tCI05iUmm8M7fAkKtqGPXM_small.jpg" group-title="VOD Kids Movies",Happy Family
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Chamber Of Secrets" tvg-logo="http://wagnet.club:55055/images/sdEOH0992YZ0QSxgXNIGLq1ToUi_small.jpg" group-title="VOD Movies",Harry Potter And The Chamber Of Secrets
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Deathly Hallows: Part 1" tvg-logo="http://wagnet.club:55055/images/maP4MTfPCeVD2FZbKTLUgriOW4R_small.jpg" group-title="VOD Movies",Harry Potter And The Deathly Hallows: Part 1
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Deathly Hallows: Part 2" tvg-logo="http://wagnet.club:55055/images/fTplI1NCSuEDP4ITLcTps739fcC_small.jpg" group-title="VOD Movies",Harry Potter And The Deathly Hallows: Part 2
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Goblet Of Fire" tvg-logo="http://wagnet.club:55055/images/6sASqcdrEHXxUhA3nFpjrRecPD2_small.jpg" group-title="VOD Movies",Harry Potter And The Goblet Of Fire
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Half-Blood Prince" tvg-logo="http://wagnet.club:55055/images/bFXys2nhALwDvpkF3dP3Vvdfn8b_small.jpg" group-title="VOD Movies",Harry Potter And The Half-Blood Prince
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Order Of The Phoenix" tvg-logo="http://wagnet.club:55055/images/4YnLxYLHhT4UQ8i9jxAXWy46Xuw_small.jpg" group-title="VOD Movies",Harry Potter And The Order Of The Phoenix
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Philosopher's Stone" tvg-logo="http://wagnet.club:55055/images/dCtFvscYcXQKTNvyyaQr2g2UacJ_small.jpg" group-title="VOD Movies",Harry Potter And The Philosopher's Stone
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Prisoner Of Azkaban" tvg-logo="http://wagnet.club:55055/images/jUFjMoLh8T2CWzHUSjKCojI5SHu_small.jpg" group-title="VOD Movies",Harry Potter And The Prisoner Of Azkaban
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heat" tvg-logo="http://wagnet.club:55055/images/zMyfPUelumio3tiDKPffaUpsQTD_small.jpg" group-title="VOD Movies",Heat
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High Noon" tvg-logo="http://wagnet.club:55055/images/bc1x6kIO9oF30y3IMFuKMJV2uOj_small.jpg" group-title="VOD Classic Movies",High Noon
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Kill Giants" tvg-logo="http://wagnet.club:55055/images/cvit6HDbXHE6W5kGPd47jd0wthQ_small.jpg" group-title="VOD Movies",I Kill Giants
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I, Tonya" tvg-logo="http://wagnet.club:55055/images/6gNXwSHxaksR1PjVZRqNapmkgj3_small.jpg" group-title="VOD Movies",I, Tonya
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inconceivable" tvg-logo="http://wagnet.club:55055/images/ubGjD2DK6Fi4IC5xRc3aEDwVD9i_small.jpg" group-title="VOD Movies",Inconceivable
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It" tvg-logo="http://wagnet.club:55055/images/9E2y5Q7WlCVNEhP5GiVTjhEhx1o_small.jpg" group-title="VOD Movies",It
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jigsaw" tvg-logo="http://wagnet.club:55055/images/gvBVIlcMaeWKhGjgGjlShiL4w4r_small.jpg" group-title="VOD Movies",Jigsaw
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Cash Live" tvg-logo="http://wagnet.club:55055/images/po0nNmB9psj05RGPNJPQW8Kr9Sg_small.jpg" group-title="VOD Live Concerts",Johnny Cash Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Welcome To The Jungle" tvg-logo="http://wagnet.club:55055/images/bXrZ5iHBEjH7WMidbUDQ0U2xbmr_small.jpg" group-title="VOD Movies",Jumanji: Welcome To The Jungle
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jungle" tvg-logo="http://wagnet.club:55055/images/tDgxknTVwrScxpCYyGUjXSn5NRk_small.jpg" group-title="VOD Movies",Jungle
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Just Getting Started" tvg-logo="http://wagnet.club:55055/images/70eVsU4nvVidEs7mpPcEcBlIpmx_small.jpg" group-title="VOD Movies",Just Getting Started
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: Retaliation" tvg-logo="http://wagnet.club:55055/images/oMWP4cAoy8WBauuKZAVTIfuY3Fw_small.jpg" group-title="VOD Movies",Kickboxer: Retaliation
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kidnap" tvg-logo="http://wagnet.club:55055/images/fwdOX3PEZlOLXr9SMpgRnSmTVFp_small.jpg" group-title="VOD Movies",Kidnap
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: The Golden Circle" tvg-logo="http://wagnet.club:55055/images/34xBL6BXNYFqtHO9zhcgoakS4aP_small.jpg" group-title="VOD Movies",Kingsman: The Golden Circle
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kong: Skull Island" tvg-logo="http://wagnet.club:55055/images/r2517Vz9EhDhj88qwbDVj8DCRZN_small.jpg" group-title="VOD Movies",Kong: Skull Island
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La La Land" tvg-logo="http://wagnet.club:55055/images/ylXCdC106IKiarftHkcacasaAcb_small.jpg" group-title="VOD Movies",La La Land
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lady Bird" tvg-logo="http://wagnet.club:55055/images/iySFtKLrWvVzXzlFj7x1zalxi5G_small.jpg" group-title="VOD Movies",Lady Bird
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Law Abiding Citizen" tvg-logo="http://wagnet.club:55055/images/p7zwLp8gCKyrNLCHP3RhmN5izHo_small.jpg" group-title="VOD Movies",Law Abiding Citizen
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lawless" tvg-logo="http://wagnet.club:55055/images/uViCpDSOo0Pexx1KWX7NXQaS9BH_small.jpg" group-title="VOD Movies",Lawless
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liam Gallagher Live" tvg-logo="http://wagnet.club:55055/images/uViCpDSOo0Pexx1KWX7NXQaS9BH_small.jpg" group-title="VOD Live Concerts",Liam Gallagher Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Logan Lucky" tvg-logo="http://wagnet.club:55055/images/mQrhrBaaHvRfBQq0Px3HtVbH9iE_small.jpg" group-title="VOD Movies",Logan Lucky
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mac And Me" tvg-logo="http://wagnet.club:55055/images/66xYOabd7uY5hcH11oyTDhqy136_small.jpg" group-title="VOD Movies",Mac And Me
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marrowbone" tvg-logo="http://wagnet.club:55055/images/ykn2GWDINcbunWPoNVRQtMaybo7_small.jpg" group-title="VOD Movies",Marrowbone
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maze" tvg-logo="http://wagnet.club:55055/images/coss7RgL0NH6g4fC2s5atvf3dFO_small.jpg" group-title="VOD Movies",Maze
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael Jackson Live" tvg-logo="http://wagnet.club:55055/images/rkulsJXXNr6HPvhzyiunU3jC7hB_small.jpg" group-title="VOD Live Concerts",Michael Jackson Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minions" tvg-logo="http://wagnet.club:55055/images/q0R4crx2SehcEEQEkYObktdeFy_small.jpg" group-title="VOD Kids Movies",Minions
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Molly's Game" tvg-logo="http://wagnet.club:55055/images/h9hUP5ZJGsjL2wbERrGlj4dMjZq_small.jpg" group-title="VOD Movies",Molly's Game
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monsters, Inc " tvg-logo="http://wagnet.club:55055/images/93Y9BGx8blzmZOPSoivkFfaifqU_small.jpg" group-title="VOD Kids Movies",Monsters, Inc 
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mumford  Sons Bonnaroo FULL Concert HD Live" tvg-logo="http://wagnet.club:55055/images/93Y9BGx8blzmZOPSoivkFfaifqU_small.jpg" group-title="VOD Live Concerts",Mumford  Sons Bonnaroo FULL Concert HD Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Murder On The Orient Express" tvg-logo="http://wagnet.club:55055/images/iBlfxlw8qwtUS0R8YjIU7JtM6LM_small.jpg" group-title="VOD Movies",Murder On The Orient Express
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Friend Dahmer" tvg-logo="http://wagnet.club:55055/images/c6HoPIBcRv9l2tPB8hbivq71Nw_small.jpg" group-title="VOD Movies",My Friend Dahmer
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Name Is Lenny" tvg-logo="http://wagnet.club:55055/images/kQfOGwUGyXZOw43n2q5aJioYl08_small.jpg" group-title="VOD Movies",My Name Is Lenny
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neil Diamond - Greatest Hits Live Concert" tvg-logo="http://wagnet.club:55055/images/kQfOGwUGyXZOw43n2q5aJioYl08_small.jpg" group-title="VOD Live Concerts",Neil Diamond - Greatest Hits Live Concert
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nirvana - MTV Live And Loud (Full Concert)" tvg-logo="http://wagnet.club:55055/images/kQfOGwUGyXZOw43n2q5aJioYl08_small.jpg" group-title="VOD Live Concerts",Nirvana - MTV Live And Loud (Full Concert)
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No Stone Unturned" tvg-logo="http://wagnet.club:55055/images/hLoElGq0jw1m9ETYc6aQR7Rt7UR_small.jpg" group-title="VOD Movies",No Stone Unturned
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oasisi Live At Main Road" tvg-logo="http://wagnet.club:55055/images/hLoElGq0jw1m9ETYc6aQR7Rt7UR_small.jpg" group-title="VOD Live Concerts",Oasisi Live At Main Road
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Overdrive" tvg-logo="http://wagnet.club:55055/images/a0hTRjis1cxwmjOuBaS7WdDG3dj_small.jpg" group-title="VOD Movies",Overdrive
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="P!NK -- Live Full Concert" tvg-logo="http://wagnet.club:55055/images/a0hTRjis1cxwmjOuBaS7WdDG3dj_small.jpg" group-title="VOD Live Concerts",P!NK -- Live Full Concert
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paddington" tvg-logo="http://wagnet.club:55055/images/hfjfjYsTBHgfogLWWiTm5OP7KpD_small.jpg" group-title="VOD Kids Movies",Paddington
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit" tvg-logo="http://wagnet.club:55055/images/2yjSvEDuM3rLDng40erLsWkQRfn_small.jpg" group-title="VOD Kids Movies",Peter Rabbit
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pirates Of The Caribbean: Dead Men Tell No Tales" tvg-logo="http://wagnet.club:55055/images/xbpSDU3p7YUGlu9Mr6Egg2Vweto_small.jpg" group-title="VOD Movies",Pirates Of The Caribbean: Dead Men Tell No Tales
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proud Mary" tvg-logo="http://wagnet.club:55055/images/5luceoVMU2FzWuyty7mZFcSY5ZW_small.jpg" group-title="VOD Movies",Proud Mary
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red Hot Chili Peppers - Live At Slane Castle Full Concert (High Quality)" tvg-logo="http://wagnet.club:55055/images/5luceoVMU2FzWuyty7mZFcSY5ZW_small.jpg" group-title="VOD Live Concerts",Red Hot Chili Peppers - Live At Slane Castle Full Concert (High Quality)
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rise Of The Footsoldier 3" tvg-logo="http://wagnet.club:55055/images/oFOE23tEe1ypuPiGpkHLBuXxMIB_small.jpg" group-title="VOD Movies",Rise Of The Footsoldier 3
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saving Private Ryan" tvg-logo="http://wagnet.club:55055/images/miDoEMlYDJhOCvxlzI0wZqBs9Yt_small.jpg" group-title="VOD Movies",Saving Private Ryan
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scarface" tvg-logo="http://wagnet.club:55055/images/zr2p353wrd6j3wjLgDT4TcaestB_small.jpg" group-title="VOD Movies",Scarface
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scent Of A Woman" tvg-logo="http://wagnet.club:55055/images/22m6tUzIYxXs5cjyl7KJJPULlMT_small.jpg" group-title="VOD Movies",Scent Of A Woman
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Security" tvg-logo="http://wagnet.club:55055/images/l4ihHPSXfOhLtY0qeIXzE6rdts3_small.jpg" group-title="VOD Movies",Security
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sex And The City" tvg-logo="http://wagnet.club:55055/images/5fuWykynmiJ07fKA84BVxxuiGHx_small.jpg" group-title="VOD Movies",Sex And The City
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sex And The City 2" tvg-logo="http://wagnet.club:55055/images/pU8sKmxS5NorwjQc4OzW0zsoggA_small.jpg" group-title="VOD Movies",Sex And The City 2
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Homecoming" tvg-logo="http://wagnet.club:55055/images/c24sv2weTHPsmDa7jEMN0m2P3RT_small.jpg" group-title="VOD Movies",Spider-Man: Homecoming
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Man" tvg-logo="http://wagnet.club:55055/images/lvIIUOoY2PQRQ6syWchzkfNaXT1_small.jpg" group-title="VOD Movies",Spinning Man
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Starred Up" tvg-logo="http://wagnet.club:55055/images/cP5vXTItgkNahGEsaIHudbdIDRG_small.jpg" group-title="VOD Movies",Starred Up
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stereophonics (full Concert) - Live @ Rock En Seine" tvg-logo="http://wagnet.club:55055/images/cP5vXTItgkNahGEsaIHudbdIDRG_small.jpg" group-title="VOD Live Concerts",Stereophonics (full Concert) - Live @ Rock En Seine
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Commuter" tvg-logo="http://wagnet.club:55055/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="VOD Movies",The Commuter
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Croods" tvg-logo="http://wagnet.club:55055/images/eHi3Nbgh6Cs2KiIyEMF4Ig4CdjX_small.jpg" group-title="VOD Kids Movies",The Croods
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Tower" tvg-logo="http://wagnet.club:55055/images/i9GUSgddIqrroubiLsvvMRYyRy0_small.jpg" group-title="VOD Movies",The Dark Tower
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Fate Of The Furious" tvg-logo="http://wagnet.club:55055/images/dImWM7GJqryWJO9LHa3XQ8DD5NH_small.jpg" group-title="VOD Movies",The Fate Of The Furious
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Foreigner" tvg-logo="http://wagnet.club:55055/images/rwM4hzrmc5HiWfQD9ls9DL4QgGl_small.jpg" group-title="VOD Movies",The Foreigner
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hitman's Bodyguard" tvg-logo="http://wagnet.club:55055/images/5CGjlz2vyBhW5xHW4eNOZIdgzYq_small.jpg" group-title="VOD Movies",The Hitman's Bodyguard
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hurricane Heist" tvg-logo="http://wagnet.club:55055/images/rAmcj5IZcx59dhev3UnVDEGlImK_small.jpg" group-title="VOD Movies",The Hurricane Heist
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Layover" tvg-logo="http://wagnet.club:55055/images/kb9osnqanXRpkpm1bnSqAhKoq5T_small.jpg" group-title="VOD Movies",The Layover
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lord Of The Rings: The Fellowship Of The Ring" tvg-logo="http://wagnet.club:55055/images/bxVxZb5O9OxCO0oRUNdCnpy9NST_small.jpg" group-title="VOD Movies",The Lord Of The Rings: The Fellowship Of The Ring
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lord Of The Rings: The Return Of The King" tvg-logo="http://wagnet.club:55055/images/rCzpDGLbOoPwLjy3OAm5NUPOTrC_small.jpg" group-title="VOD Movies",The Lord Of The Rings: The Return Of The King
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lord Of The Rings: The Two Towers" tvg-logo="http://wagnet.club:55055/images/5VTN0pR8gcqV3EPUHHfMGnJYN9L_small.jpg" group-title="VOD Movies",The Lord Of The Rings: The Two Towers
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Magnificent Seven" tvg-logo="http://wagnet.club:55055/images/z6BP8yLwck8mN9dtdYKkZ4XGa3D_small.jpg" group-title="VOD Classic Movies",The Magnificent Seven
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mountain Between Us" tvg-logo="http://wagnet.club:55055/images/3XNfYTW4XGscI81nXMSWGsQ8cpu_small.jpg" group-title="VOD Movies",The Mountain Between Us
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy" tvg-logo="http://wagnet.club:55055/images/yhIsVvcUm7QxzLfT6HW2wLf5ajY_small.jpg" group-title="VOD Movies",The Mummy
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Transporter" tvg-logo="http://wagnet.club:55055/images/vD5plFV1ec9CSIsdlPe9icCDRTL_small.jpg" group-title="VOD Movies",The Transporter
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Warriors" tvg-logo="http://wagnet.club:55055/images/ikwR74siRBhSdtAUMxNzUJvT59A_small.jpg" group-title="VOD Movies",The Warriors
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tina Turner  One Last Time Live In Concert  Wembley" tvg-logo="http://wagnet.club:55055/images/ikwR74siRBhSdtAUMxNzUJvT59A_small.jpg" group-title="VOD Live Concerts",Tina Turner  One Last Time Live In Concert  Wembley
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story" tvg-logo="http://wagnet.club:55055/images/rhIRbceoE9lR4veEXuwCC2wARtG_small.jpg" group-title="VOD Kids Movies",Toy Story
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 2" tvg-logo="http://wagnet.club:55055/images/3CmK3XurcLeUyMifCR28ibzupbB_small.jpg" group-title="VOD Kids Movies",Toy Story 2
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 3" tvg-logo="http://wagnet.club:55055/images/mMltbSxwEdNE4Cv8QYLpzkHWTDo_small.jpg" group-title="VOD Kids Movies",Toy Story 3
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transporter 2" tvg-logo="http://wagnet.club:55055/images/bZKkwfQf4mHYlNbmViNjmAN60zY_small.jpg" group-title="VOD Movies",Transporter 2
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transporter 3" tvg-logo="http://wagnet.club:55055/images/d3rokRfJUtSg3wFaTdUKKodhfaA_small.jpg" group-title="VOD Movies",Transporter 3
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="War For The Planet Of The Apes" tvg-logo="http://wagnet.club:55055/images/3vYhLLxrTtZLysXtIWktmd57Snv_small.jpg" group-title="VOD Movies",War For The Planet Of The Apes
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="When We First Met" tvg-logo="http://wagnet.club:55055/images/u5VJ1XmPRUWNz9l0mP2rHmkUuvQ_small.jpg" group-title="VOD Movies",When We First Met
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Whitney Houston Live In Concert (Japan" tvg-logo="http://wagnet.club:55055/images/u5VJ1XmPRUWNz9l0mP2rHmkUuvQ_small.jpg" group-title="VOD Live Concerts",Whitney Houston Live In Concert (Japan
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wind River" tvg-logo="http://wagnet.club:55055/images/pySivdR845Hom4u4T2WNkJxe6Ad_small.jpg" group-title="VOD Movies",Wind River
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="http://wagnet.club:55055/images/ouYgAatYH4JzIThj6FI3UYf31RI_small.jpg" group-title="VOD Movies",Wonder
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Wheel" tvg-logo="http://wagnet.club:55055/images/fPXn8SW4pa4kJErAIAJLmb3Znns_small.jpg" group-title="VOD Movies",Wonder Wheel
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman" tvg-logo="http://wagnet.club:55055/images/imekS7f1OuHyUP2LAiTEM0zBzUz_small.jpg" group-title="VOD Movies",Wonder Woman
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You Were Never Really Here" tvg-logo="http://wagnet.club:55055/images/aoArNmQfL67BzENQeQsgJm21cMe_small.jpg" group-title="VOD Movies",You Were Never Really Here
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Goodbye Christopher Robin" tvg-logo="http://wagnet.club:55055/images/tghJadkTRn8qDaLF6dfs2hfp8sN_small.jpg" group-title="VOD Movies",Goodbye Christopher Robin
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rio Grande" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD Classic Movies",Rio Grande
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E01" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E01
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E02" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E02
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E03" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E03
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E04" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E04
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E05" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E05
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E06" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E06
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E07" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E07
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E08" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E08
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E09" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E09
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01 E10" tvg-logo="http://wagnet.club:55055/images/yIQGYjNWMR0fnNLgzZWTY0JM2x9_small.jpg" group-title="VOD TV Shows",Bates Motel S01 E10
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You Me & Marley" tvg-logo="http://wagnet.club:55055/images/A06e9YJ5ry3WXEIFIAD1mKBxcuZ_small.jpg" group-title="VOD Movies",You Me & Marley
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game Night" tvg-logo="http://wagnet.club:55055/images/85R8LMyn9f2Lev2YPBF8Nughrkv_small.jpg" group-title="VOD Movies",Game Night
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminal" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD Movies",Terminal
+http://wagnet.club:55055/movie/gregkodi/gregkodi/15989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E01 From The Ashes Of Tragedy" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E01 From The Ashes Of Tragedy
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E02 The Run Of His Life" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E02 The Run Of His Life
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E03 The Dream Team" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E03 The Dream Team
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E04 100% Not Guilty" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E04 100% Not Guilty
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E05 The Race Card" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E05 The Race Card
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E06 Marcia, Marcia, Marcia" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E06 Marcia, Marcia, Marcia
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E07 Conspiracy Theories" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E07 Conspiracy Theories
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E08 A Jury In Jail" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E08 A Jury In Jail
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E09 Manna From Heaven" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E09 Manna From Heaven
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Crime Story S01 E10 The Verdict" tvg-logo="http://wagnet.club:55055/images/xi7pA3lL6Wb78p6Y6PgWoHDMjrM_small.jpg" group-title="VOD TV Shows",American Crime Story S01 E10 The Verdict
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alex Cross" tvg-logo="http://wagnet.club:55055/images/aaxWTwrsv7PqC0tKpZl0tRPiYDV_small.jpg" group-title="VOD Movies",Alex Cross
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Argo" tvg-logo="http://wagnet.club:55055/images/oai3xLBQHpIh18VJdRCcL7D0Yg0_small.jpg" group-title="VOD Movies",Argo
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bent" tvg-logo="http://wagnet.club:55055/images/xUqimeu4KzFeqTvblNLvG8Y1DAo_small.jpg" group-title="VOD Movies",Bent
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bullet To The Head" tvg-logo="http://wagnet.club:55055/images/in6KZhkj6UCpXhjVm00VzdisHyf_small.jpg" group-title="VOD Movies",Bullet To The Head
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Neighbors" tvg-logo="http://wagnet.club:55055/images/bpj8myebvnTw5HDmzTSI8N6WFYr_small.jpg" group-title="VOD Movies",Neighbors
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="'71" tvg-logo="http://wagnet.club:55055/images/b8dmfG84peFdouN2N8wOsiI9WHt_small.jpg" group-title="VOD Movies",'71
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daddy's Home 2" tvg-logo="http://wagnet.club:55055/images/rF2IoKL0IFmumEXQFUuB8LajTYP_small.jpg" group-title="VOD Movies",Daddy's Home 2
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Den Of Thieves" tvg-logo="http://wagnet.club:55055/images/AfybH6GbGFw1F9bcETe2yu25mIE_small.jpg" group-title="VOD Movies",Den Of Thieves
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Three Billboards Outside Ebbing, Missouri" tvg-logo="http://wagnet.club:55055/images/vgvw6w1CtcFkuXXn004S5wQsHRl_small.jpg" group-title="VOD Movies",Three Billboards Outside Ebbing, Missouri
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cocaine Godmother" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD Movies",Cocaine Godmother
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E01" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E01
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E02" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E02
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E03" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E03
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E04" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E04
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E05" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E05
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E06" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E06
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E07" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E07
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McMafia S01 E08" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",McMafia S01 E08
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Young Offenders-S01 E01" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",The Young Offenders-S01 E01
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Young Offenders-S01 E02" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",The Young Offenders-S01 E02
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Young Offenders-S01 E03" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",The Young Offenders-S01 E03
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Young Offenders-S01 E04" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",The Young Offenders-S01 E04
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Young Offenders-S01 E05" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",The Young Offenders-S01 E05
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Young Offenders-S01 E06" tvg-logo="http://wagnet.club:55055/images/lk3npUUYxLJCyaSSQHqGlH64Qxk_small.jpg" group-title="VOD TV Shows",The Young Offenders-S01 E06
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forrest Gump" tvg-logo="http://wagnet.club:55055/images/yE5d3BUhE8hCnkMUJOo1QDoOGNz_small.jpg" group-title="VOD Movies",Forrest Gump
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Only The Brave" tvg-logo="http://wagnet.club:55055/images/lC7WdUNLOJI3sllaDGNdFy2GT8g_small.jpg" group-title="VOD Movies",Only The Brave
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Split" tvg-logo="http://wagnet.club:55055/images/rXMWOZiCt6eMX22jWuTOSdQ98bY_small.jpg" group-title="VOD Movies",Split
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Last Jedi" tvg-logo="http://wagnet.club:55055/images/kOVEVeg59E0wsnXmF9nrh6OmWII_small.jpg" group-title="VOD Movies",Star Wars: The Last Jedi
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Green Mile" tvg-logo="http://wagnet.club:55055/images/3yJUlOtVa09CYJocwBU8eAryja0_small.jpg" group-title="VOD Movies",The Green Mile
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="http://wagnet.club:55055/images/inVq3FRqcYIRl2la8iZikYYxFNR_small.jpg" group-title="VOD Movies",Deadpool
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk" tvg-logo="http://wagnet.club:55055/images/ebSnODDg9lbsMIaWg2uAbjn7TO5_small.jpg" group-title="VOD Movies",Dunkirk
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pirates Of Somalia" tvg-logo="http://wagnet.club:55055/images/a8dlDPwo9mnorurL6ukIpyHZZd7_small.jpg" group-title="VOD Movies",The Pirates Of Somalia
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tragedy Girls" tvg-logo="http://wagnet.club:55055/images/ifngaBZDROgHz4sgSzL75TD90Ll_small.jpg" group-title="VOD Movies",Tragedy Girls
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="War Dogs" tvg-logo="http://wagnet.club:55055/images/wJXku1YhMKeuzYNEHux7XtaYPsE_small.jpg" group-title="VOD Movies",War Dogs
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wolf Of Wall Street" tvg-logo="http://wagnet.club:55055/images/vK1o5rZGqxyovfIhZyMELhk03wO_small.jpg" group-title="VOD Movies",The Wolf Of Wall Street
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok" tvg-logo="http://wagnet.club:55055/images/rzRwTcFvttcN1ZpX2xv4j3tSdJu_small.jpg" group-title="VOD Movies",Thor: Ragnarok
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="War Machine" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD Movies",War Machine
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E01 Rites Of Passage" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E01 Rites Of Passage
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E02 Wrath Of The Northmen" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E02 Wrath Of The Northmen
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E03 Dispossessed" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E03 Dispossessed
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E04 Trial" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E04 Trial
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E05 Raid" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E05 Raid
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E06 Burial Of The Dead" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E06 Burial Of The Dead
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E07 A Kings Ransom" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E07 A Kings Ransom
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E08 Sacrifice" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E08 Sacrifice
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikings S01 E09 All Change" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Vikings S01 E09 All Change
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E01" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E01
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E02" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E02
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E03" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E03
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E04" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E04
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E05" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E05
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E06" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E06
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E07" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E07
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E08" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E08
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E09" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E09
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E10" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Cobra Kai S01 E10
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E01" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Deadliest Catch S14 E01
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E02" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Deadliest Catch S14 E02
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E03" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Deadliest Catch S14 E03
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E04" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Deadliest Catch S14 E04
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E05" tvg-logo="http://wagnet.club:55055/images/zGlzlzms2vN5vSFVMWuknu7XGXP_small.jpg" group-title="VOD TV Shows",Deadliest Catch S14 E05
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Descendants" tvg-logo="http://wagnet.club:55055/images/5lpBvuPNaPiOpitehczWmJgf6wb_small.jpg" group-title="VOD Movies",The Descendants
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don't Breathe" tvg-logo="http://wagnet.club:55055/images/lw0IqOSMsQcy1QnVIEIDppLmNwk_small.jpg" group-title="VOD Movies",Don't Breathe
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="First Kill" tvg-logo="http://wagnet.club:55055/images/zoia9YSg82UNYbtum9QYjKSqdLw_small.jpg" group-title="VOD Movies",First Kill
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birth Of The Dragon" tvg-logo="http://wagnet.club:55055/images/a7HY9butbuO8XwB3uBxQ98MBxd4_small.jpg" group-title="VOD Movies",Birth Of The Dragon
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 Hours To Live" tvg-logo="http://wagnet.club:55055/images/w0MXP33x1bq48TDC7IaNqQ8nxcc_small.jpg" group-title="VOD Movies",24 Hours To Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Blonde" tvg-logo="http://wagnet.club:55055/images/ApXiD6hHQ0pZLoVUuiI1NKkpDgS_small.jpg" group-title="VOD Movies",Atomic Blonde
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Disconnected" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD Movies",Disconnected
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 1 - Currahee" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 1 - Currahee
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 2 - Day Of Days" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 2 - Day Of Days
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 3 - Carenten" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 3 - Carenten
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 4 - Replacements" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 4 - Replacements
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 5 - Crossroads" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 5 - Crossroads
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 6 - Bastogne" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 6 - Bastogne
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 7 - The Breaking Point" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 7 - The Breaking Point
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 8 - The Last Patrol" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 8 - The Last Patrol
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 9 - Why We Fight" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 9 - Why We Fight
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Episode 10 - Points" tvg-logo="http://wagnet.club:55055/images/9a5ri3AhRnDA1EPumANPuZnVAKp_small.jpg" group-title="VOD TV Shows",Episode 10 - Points
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="47 Meters Down" tvg-logo="http://wagnet.club:55055/images/2IgdRUTdHyoI3nFORcnnYEKOGIH_small.jpg" group-title="VOD Movies",47 Meters Down
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="All We Had" tvg-logo="http://wagnet.club:55055/images/8tMBGup98UrGgu5kYN83iOfyHZn_small.jpg" group-title="VOD Movies",All We Had
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casablanca" tvg-logo="http://wagnet.club:55055/images/wOBKAoUJZb5qTsWv5XXvVV2vUzz_small.jpg" group-title="VOD Classic Movies",Casablanca
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Great Expectations" tvg-logo="http://wagnet.club:55055/images/v3CinMiaCmvocL7H0afDSCd0LoW_small.jpg" group-title="VOD Classic Movies",Great Expectations
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High Sierra" tvg-logo="http://wagnet.club:55055/images/jC4Nh3PXcWSSbnPYM1O400wwLom_small.jpg" group-title="VOD Classic Movies",High Sierra
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moby Dick" tvg-logo="http://wagnet.club:55055/images/C2OklD5ELtFZ16AlcGXQWzIUKR_small.jpg" group-title="VOD Classic Movies",Moby Dick
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spectre" tvg-logo="http://wagnet.club:55055/images/hE24GYddaxB9MVZl1CaiI86M3kp_small.jpg" group-title="VOD Movies",Spectre
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Man Who Shot Liberty Valance" tvg-logo="http://wagnet.club:55055/images/qEczX5Rruux72XOHDeeLJEvmZkV_small.jpg" group-title="VOD Classic Movies",The Man Who Shot Liberty Valance
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Searchers" tvg-logo="http://wagnet.club:55055/images/91aMN46mKM2u5440URJZ3Yd9r3K_small.jpg" group-title="VOD Classic Movies",The Searchers
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angels With Dirty Faces" tvg-logo="http://wagnet.club:55055/images/fTo9qeUDLd75MNe7MxDlIgFR7pf_small.jpg" group-title="VOD Classic Movies",Angels With Dirty Faces
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Das Boot" tvg-logo="http://wagnet.club:55055/images/xRhHL7AHEo1J1d70qwmwQMZlEtd_small.jpg" group-title="VOD Classic Movies",Das Boot
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How Green Was My Valley" tvg-logo="http://wagnet.club:55055/images/zmYNtzq3B17DSpDYkF3JUHBa8Yx_small.jpg" group-title="VOD Classic Movies",How Green Was My Valley
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monte Walsh" tvg-logo="http://wagnet.club:55055/images/q9ccnCy0zvV0nPxSBbqYfpmA2TY_small.jpg" group-title="VOD Classic Movies",Monte Walsh
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paint Your Wagon" tvg-logo="http://wagnet.club:55055/images/1wDiGBBhXStKy2674zDSEwxlBcw_small.jpg" group-title="VOD Classic Movies",Paint Your Wagon
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sergeant York" tvg-logo="http://wagnet.club:55055/images/2oQZp8RMxUNW6NwE1HdZuy8kWvV_small.jpg" group-title="VOD Classic Movies",Sergeant York
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seven Samurai" tvg-logo="http://wagnet.club:55055/images/v6xrz4fr92KY1oNC3HsEvrsvR1n_small.jpg" group-title="VOD Classic Movies",Seven Samurai
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Buddy Holly Story" tvg-logo="http://wagnet.club:55055/images/3aDrhKfuL5SRGLmsQNE1MewmhHx_small.jpg" group-title="VOD Classic Movies",The Buddy Holly Story
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bishop's Wife" tvg-logo="http://wagnet.club:55055/images/v6COnRXIgyw7pzzHj99uJLfyWTG_small.jpg" group-title="VOD Classic Movies",The Bishop's Wife
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The French Connection" tvg-logo="http://wagnet.club:55055/images/xwDi4wF0I1L5bSW08Y8GocDGjJP_small.jpg" group-title="VOD Classic Movies",The French Connection
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ipcress File" tvg-logo="http://wagnet.club:55055/images/8LSeZyyiqLb8UTBAJfSx69pVEZp_small.jpg" group-title="VOD Classic Movies",The Ipcress File
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The King And I" tvg-logo="http://wagnet.club:55055/images/jyAMSLdJymJ9xObCfZFXZFGFz8m_small.jpg" group-title="VOD Classic Movies",The King And I
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bedford Incident" tvg-logo="http://wagnet.club:55055/images/v0NIOvZ2puNOUssLST7FRxbpBi7_small.jpg" group-title="VOD Classic Movies",The Bedford Incident
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Best Little Whorehouse In Texas" tvg-logo="http://wagnet.club:55055/images/yw3PNR3NVeKKfLWv8SgFQnXoHZh_small.jpg" group-title="VOD Classic Movies",The Best Little Whorehouse In Texas
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Heroes Of Telemark" tvg-logo="http://wagnet.club:55055/images/9nAExxKTVYOox0nR9nwtIkVEKN7_small.jpg" group-title="VOD Classic Movies",The Heroes Of Telemark
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hustler" tvg-logo="http://wagnet.club:55055/images/u38NLUtWarEbv2gZGOnHhf6akWC_small.jpg" group-title="VOD Classic Movies",The Hustler
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cincinnati Kid" tvg-logo="http://wagnet.club:55055/images/hNkcS5cDV8kdvzFmRCe3gVRhSnG_small.jpg" group-title="VOD Classic Movies",The Cincinnati Kid
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Above Us The Waves" tvg-logo="http://wagnet.club:55055/images/buTypAPI0yCWWzWUpCdCqPAC1Re_small.jpg" group-title="VOD Classic Movies",Above Us The Waves
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Man Who Would Be King" tvg-logo="http://wagnet.club:55055/images/yS2WvQ2oRAJqzpnFiC9dEOtQ7E3_small.jpg" group-title="VOD Classic Movies",The Man Who Would Be King
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Sound Of Music" tvg-logo="http://wagnet.club:55055/images/459fPVvI4lkEV0piSfcq0irKHi8_small.jpg" group-title="VOD Classic Movies",The Sound Of Music
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tora! Tora! Tora!" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tora! Tora! Tora!
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker, Tailor, Soldier, Spy - 1 - Return To The Circus" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tinker, Tailor, Soldier, Spy - 1 - Return To The Circus
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker, Tailor, Soldier, Spy - 2 - Tarr Tells His Story" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tinker, Tailor, Soldier, Spy - 2 - Tarr Tells His Story
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker, Tailor, Soldier, Spy - 3 - Smiley Tracks The Mole" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tinker, Tailor, Soldier, Spy - 3 - Smiley Tracks The Mole
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker, Tailor, Soldier, Spy - 4 - How It All Fits Together" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tinker, Tailor, Soldier, Spy - 4 - How It All Fits Together
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker, Tailor, Soldier, Spy - 5 - Tinker Tailor" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tinker, Tailor, Soldier, Spy - 5 - Tinker Tailor
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker, Tailor, Soldier, Spy - 6 - Smiley Sets A Trap" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tinker, Tailor, Soldier, Spy - 6 - Smiley Sets A Trap
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker, Tailor, Soldier, Spy - 7 - Flushing Out The Mole" tvg-logo="http://wagnet.club:55055/images/njNKZEgVVTk7Q0Fir99fuvEMCf7_small.jpg" group-title="VOD Classic Movies",Tinker, Tailor, Soldier, Spy - 7 - Flushing Out The Mole
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 Rillington Place" tvg-logo="http://wagnet.club:55055/images/aQP2rSIciaeb2FGPeOQIWsCysts_small.jpg" group-title="VOD Classic Movies",10 Rillington Place
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brigadoon" tvg-logo="http://wagnet.club:55055/images/va3DcpyZDnnWdRB0FTPKzObo3Uz_small.jpg" group-title="VOD Classic Movies",Brigadoon
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Brasco" tvg-logo="http://wagnet.club:55055/images/xtKLvpOfARi1XVm8u2FTdhY5Piq_small.jpg" group-title="VOD Movies",Donnie Brasco
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scum" tvg-logo="http://wagnet.club:55055/images/8w0S1YLSWtNGtq6ILOHCXJf801B_small.jpg" group-title="VOD Movies",Scum
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ballad Of Josie" tvg-logo="http://wagnet.club:55055/images/wXw9xWPbXCSEncgYPvTIO7FUazg_small.jpg" group-title="VOD Classic Movies",The Ballad Of Josie
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunt For Red October" tvg-logo="http://wagnet.club:55055/images/bqvlKYlWq2uibsuVzKTWseeccd2_small.jpg" group-title="VOD Classic Movies",The Hunt For Red October
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Molly Maguires" tvg-logo="http://wagnet.club:55055/images/AqRyswbmYImwT3UIlDR6w6LXSR2_small.jpg" group-title="VOD Classic Movies",The Molly Maguires
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Odd Couple" tvg-logo="http://wagnet.club:55055/images/waRFf69q6BSuPYKaHMb4EGdTNyr_small.jpg" group-title="VOD Classic Movies",The Odd Couple
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Yangste Incident" tvg-logo="http://www.rareandcollectibledvds.com/pub/media/catalog/product/cache/image/265x265/a14b26867fa9013ca5a982c915cabedd/y/a/yangtse-incident-dvd-cover-front_1.jpg" group-title="VOD Classic Movies",The Yangste Incident
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tinker Tailor Soldier Spy" tvg-logo="http://wagnet.club:55055/images/2N3P730TYXEcNL0BO8WBuMc6yJz_small.jpg" group-title="VOD Movies",Tinker Tailor Soldier Spy
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Strangers: Prey At Night" tvg-logo="http://wagnet.club:55055/images/vdxLpPsZkPZdFrREp7eSeSzcimj_small.jpg" group-title="VOD Movies",The Strangers: Prey At Night
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ibiza" tvg-logo="http://wagnet.club:55055/images/seSySQv8If1GxePYpKC1If1ULiv_small.jpg" group-title="VOD Movies",Ibiza
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="http://wagnet.club:55055/images/uxzzxijgPIY7slzFvMotPv8wjKA_small.jpg" group-title="VOD Movies",Black Panther
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gringo" tvg-logo="http://wagnet.club:55055/images/dxeVPklFwng2IowqRPNI4od6aXv_small.jpg" group-title="VOD Movies",Gringo
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death Wish" tvg-logo="http://wagnet.club:55055/images/7FG13lLQcV9DC2Bhn0hjxc6AFXV_small.jpg" group-title="VOD Movies",Death Wish
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JFK" tvg-logo="http://wagnet.club:55055/images/9bmXpKDJv2kdtD4QNexErjGTIOz_small.jpg" group-title="VOD Classic Movies",JFK
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In Darkness" tvg-logo="http://wagnet.club:55055/images/c5w3fkua6BYjDzs0bbOXYbWCrlF_small.jpg" group-title="VOD Movies",In Darkness
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Future World" tvg-logo="http://wagnet.club:55055/images/kMA0IalnEEa0PaHRUzzjpTu5xXQ_small.jpg" group-title="VOD Movies",Future World
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thoroughbreds" tvg-logo="http://wagnet.club:55055/images/pIxZzTfITqBpZxbIGsV01DcoHsT_small.jpg" group-title="VOD Movies",Thoroughbreds
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky" tvg-logo="http://wagnet.club:55055/images/9TUR3s1PMJHwDRbpm7PWQ0S7IRy_small.jpg" group-title="VOD Classic Movies",Rocky
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II" tvg-logo="http://wagnet.club:55055/images/fqJH7mI4dFANRay8qdJoGa7fK1k_small.jpg" group-title="VOD Classic Movies",Rocky II
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III" tvg-logo="http://wagnet.club:55055/images/ns55NGqTDEEjcI9z2a9htA2cFtG_small.jpg" group-title="VOD Classic Movies",Rocky III
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV" tvg-logo="http://wagnet.club:55055/images/jmvpwgW5M2kduR9zB0q8qGFC4zM_small.jpg" group-title="VOD Classic Movies",Rocky IV
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky V" tvg-logo="http://wagnet.club:55055/images/5P2RiuLt31mWyb6duww8qlAhs6G_small.jpg" group-title="VOD Classic Movies",Rocky V
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa" tvg-logo="http://wagnet.club:55055/images/n82AAPWnAafDAZjxkYK2rAPwk4A_small.jpg" group-title="VOD Classic Movies",Rocky Balboa
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed" tvg-logo="http://wagnet.club:55055/images/hKzhV274pkZBSpXfCjUyzbyYKLl_small.jpg" group-title="VOD Movies",Creed
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Platoon" tvg-logo="http://wagnet.club:55055/images/sYPOQI57JVNmjiLI3KeZ5KA8O9i_small.jpg" group-title="VOD Classic Movies",Platoon
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Billy Connolly: Two Night Stand" tvg-logo="http://wagnet.club:55055/images/ifhISQYAzmOVqu5nhddbXXvk3iP_small.jpg" group-title="VOD Comedy Shows",Billy Connolly: Two Night Stand
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frankie Boyle - Live - The Last Days Of Sodom" tvg-logo="http://wagnet.club:55055/images/3W1YMIoEzeKJu4yxYhUK8rySqQV_small.jpg" group-title="VOD Comedy Shows",Frankie Boyle - Live - The Last Days Of Sodom
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jim Davidson: The Devil Rides Out" tvg-logo="http://wagnet.club:55055/images/gT8nvMGzYItaqXPY8tQkg4GVX0t_small.jpg" group-title="VOD Comedy Shows",Jim Davidson: The Devil Rides Out
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Bridges: The Story Continues   " tvg-logo="http://wagnet.club:55055/images/gLbz3w8QTsFGG5QhpFiCOElAji_small.jpg" group-title="VOD Comedy Shows",Kevin Bridges: The Story Continues   
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael McIntyre: Hello Wembley" tvg-logo="http://wagnet.club:55055/images/uPox9iBDe8eROsO39JTXVCVgUa6_small.jpg" group-title="VOD Comedy Shows",Michael McIntyre: Hello Wembley
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Milton Jones: Lion Whisperer" tvg-logo="http://wagnet.club:55055/images/ndqUmpN6QUD42IJ5P4jZF3ePnCd_small.jpg" group-title="VOD Comedy Shows",Milton Jones: Lion Whisperer
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Kay: The Tour That Didn't Tour Tour" tvg-logo="http://wagnet.club:55055/images/pa1lKndigAlpjqvszHYI7KE5I8b_small.jpg" group-title="VOD Comedy Shows",Peter Kay: The Tour That Didn't Tour Tour
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rhod Gilbert" tvg-logo="http://wagnet.club:55055/images/_small.jpg" group-title="VOD Comedy Shows",Rhod Gilbert
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Gervais: Out Of England 2" tvg-logo="http://wagnet.club:55055/images/isHC02m4tNp9elnrA9e2XU4E3Gi_small.jpg" group-title="VOD Comedy Shows",Ricky Gervais: Out Of England 2
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roy Chubby Brown: Dirty Weekend In Blackpool Live" tvg-logo="http://wagnet.club:55055/images/mqd5hFDU9slDQAaBj2OZBpWOVdZ_small.jpg" group-title="VOD Comedy Shows",Roy Chubby Brown: Dirty Weekend In Blackpool Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tommy Tiernan: Cracked" tvg-logo="http://wagnet.club:55055/images/epwLpWeyCo7QKmfh0kT6sXlLYFu_small.jpg" group-title="VOD Comedy Shows",Tommy Tiernan: Cracked
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tommy Tiernan: Something Mental" tvg-logo="http://wagnet.club:55055/images/nGtiTJF9jo7S9lNUU3cvGM7zfpA_small.jpg" group-title="VOD Comedy Shows",Tommy Tiernan: Something Mental
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lee Evans: Roadrunner" tvg-logo="http://wagnet.club:55055/images/iaG4a5HoyxQB9slymQPbvFfVv69_small.jpg" group-title="VOD Comedy Shows",Lee Evans: Roadrunner
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tommy Cooper - The Missing Pieces" tvg-logo="http://wagnet.club:55055/images/_small.jpg" group-title="VOD Comedy Shows",Tommy Cooper - The Missing Pieces
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Micky Flanagan - An' Another Fing Live" tvg-logo="http://wagnet.club:55055/images/hjViO2i1hR9cuLUgC87lIjk2O93_small.jpg" group-title="VOD Comedy Shows",Micky Flanagan - An' Another Fing Live
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Bishop Live: The Sunshine Tour" tvg-logo="http://wagnet.club:55055/images/hdyvcw4J4BAxmAOVOZ7T2GXwxjh_small.jpg" group-title="VOD Comedy Shows",John Bishop Live: The Sunshine Tour
+http://wagnet.club:55055/movie/gregkodi/gregkodi/16246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Radio Paradise 2" tvg-logo="" group-title="Radio",Radio Paradise 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17843.ts
+#EXTINF:-1 tvg-id="" tvg-name="98FM Radio" tvg-logo="" group-title="Radio",98FM Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17829.ts
+#EXTINF:-1 tvg-id="" tvg-name="Atom Radio" tvg-logo="" group-title="Radio",Atom Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bar Legend Radio" tvg-logo="" group-title="Radio",Bar Legend Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beatles Radio" tvg-logo="" group-title="Radio",Beatles Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17846.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1" tvg-logo="" group-title="Radio",BBC Radio 1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17848.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio 1xtra" tvg-logo="" group-title="Radio",BBC Radio 1xtra
+http://wagnet.club:55055/live/gregkodi/gregkodi/17849.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Radio Ulster" tvg-logo="" group-title="Radio",BBC Radio Ulster
+http://wagnet.club:55055/live/gregkodi/gregkodi/17850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Choice Fm London" tvg-logo="" group-title="Radio",Choice Fm London
+http://wagnet.club:55055/live/gregkodi/gregkodi/17825.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY FM Classic Rock" tvg-logo="" group-title="Radio",CITY FM Classic Rock
+http://wagnet.club:55055/live/gregkodi/gregkodi/17842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Classic Hits 4FM" tvg-logo="" group-title="Radio",Classic Hits 4FM
+http://wagnet.club:55055/live/gregkodi/gregkodi/17828.ts
+#EXTINF:-1 tvg-id="" tvg-name="Country Hits Radio" tvg-logo="" group-title="Radio",Country Hits Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17822.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dance UK Radio" tvg-logo="" group-title="Radio",Dance UK Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17840.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dancersmusic Radio" tvg-logo="" group-title="Radio",Dancersmusic Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fallback Radio" tvg-logo="" group-title="Radio",Fallback Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17826.ts
+#EXTINF:-1 tvg-id="" tvg-name="FM104 Radio" tvg-logo="" group-title="Radio",FM104 Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17830.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hits Radio" tvg-logo="" group-title="Radio",Hits Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17821.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hot Hits UK Radio" tvg-logo="" group-title="Radio",Hot Hits UK Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17823.ts
+#EXTINF:-1 tvg-id="" tvg-name="Just Good Friends Radio" tvg-logo="" group-title="Radio",Just Good Friends Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17837.ts
+#EXTINF:-1 tvg-id="" tvg-name="KISS FM (EIRE)" tvg-logo="" group-title="Radio",KISS FM (EIRE)
+http://wagnet.club:55055/live/gregkodi/gregkodi/17827.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARTY VIBE RADIO" tvg-logo="" group-title="Radio",PARTY VIBE RADIO
+http://wagnet.club:55055/live/gregkodi/gregkodi/17847.ts
+#EXTINF:-1 tvg-id="" tvg-name="PARTY VIBE RADIO 2" tvg-logo="" group-title="Radio",PARTY VIBE RADIO 2
+http://wagnet.club:55055/live/gregkodi/gregkodi/17834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Free" tvg-logo="" group-title="Radio",Radio Free
+http://wagnet.club:55055/live/gregkodi/gregkodi/17836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gold FM" tvg-logo="" group-title="Radio",Radio Gold FM
+http://wagnet.club:55055/live/gregkodi/gregkodi/17824.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Paradise" tvg-logo="" group-title="Radio",Radio Paradise
+http://wagnet.club:55055/live/gregkodi/gregkodi/17845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Real Dance Radio" tvg-logo="" group-title="Radio",Real Dance Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17839.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reggae Radio" tvg-logo="" group-title="Radio",Reggae Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17820.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock FM" tvg-logo="" group-title="Radio",Rock FM
+http://wagnet.club:55055/live/gregkodi/gregkodi/17844.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Zone - Dublin" tvg-logo="" group-title="Radio",The Zone - Dublin
+http://wagnet.club:55055/live/gregkodi/gregkodi/17831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Easy Hits Florida" tvg-logo="" group-title="Radio",Easy Hits Florida
+http://wagnet.club:55055/live/gregkodi/gregkodi/17851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Magic 80s Florida" tvg-logo="" group-title="Radio",Magic 80s Florida
+http://wagnet.club:55055/live/gregkodi/gregkodi/17852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Capital Radio" tvg-logo="" group-title="Radio",Capital Radio
+http://wagnet.club:55055/live/gregkodi/gregkodi/17853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Christmas FM Ireland" tvg-logo="" group-title="Radio",Christmas FM Ireland
+http://wagnet.club:55055/live/gregkodi/gregkodi/17863.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cool FM 97.4" tvg-logo="" group-title="Radio",Cool FM 97.4
+http://wagnet.club:55055/live/gregkodi/gregkodi/17859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cork's 96 FM" tvg-logo="" group-title="Radio",Cork's 96 FM
+http://wagnet.club:55055/live/gregkodi/gregkodi/17867.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dundalk FM 97.7" tvg-logo="" group-title="Radio",Dundalk FM 97.7
+http://wagnet.club:55055/live/gregkodi/gregkodi/17865.ts
+#EXTINF:-1 tvg-id="" tvg-name="iRadio North East & Midlands" tvg-logo="" group-title="Radio",iRadio North East & Midlands
+http://wagnet.club:55055/live/gregkodi/gregkodi/17856.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Radio Ireland" tvg-logo="" group-title="Radio",Love Radio Ireland
+http://wagnet.club:55055/live/gregkodi/gregkodi/17854.ts
+#EXTINF:-1 tvg-id="" tvg-name="Newstalk 106-108 FM" tvg-logo="" group-title="Radio",Newstalk 106-108 FM
+http://wagnet.club:55055/live/gregkodi/gregkodi/17860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nova 100FM" tvg-logo="" group-title="Radio",Radio Nova 100FM
+http://wagnet.club:55055/live/gregkodi/gregkodi/17866.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTÉ 2fm" tvg-logo="" group-title="Radio",RTÉ 2fm
+http://wagnet.club:55055/live/gregkodi/gregkodi/17869.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTÉ Radio 1" tvg-logo="" group-title="Radio",RTÉ Radio 1
+http://wagnet.club:55055/live/gregkodi/gregkodi/17868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Spin 1038" tvg-logo="" group-title="Radio",Spin 1038
+http://wagnet.club:55055/live/gregkodi/gregkodi/17864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Spin South West 102-103" tvg-logo="" group-title="Radio",Spin South West 102-103
+http://wagnet.club:55055/live/gregkodi/gregkodi/17858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Today FM" tvg-logo="" group-title="Radio",Today FM
+http://wagnet.club:55055/live/gregkodi/gregkodi/17857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E06" tvg-logo="" group-title="VOD TV Shows",Deadliest Catch S14 E06
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E07" tvg-logo="" group-title="VOD TV Shows",Deadliest Catch S14 E07
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E08" tvg-logo="" group-title="VOD TV Shows",Deadliest Catch S14 E08
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E09" tvg-logo="" group-title="VOD TV Shows",Deadliest Catch S14 E09
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E10" tvg-logo="" group-title="VOD TV Shows",Deadliest Catch S14 E10
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadliest Catch S14 E11" tvg-logo="" group-title="VOD TV Shows",Deadliest Catch S14 E11
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="211" tvg-logo="http://wagnet.club:55055/images/81RColr4rau6DZ7z9eMsksokcfk_small.jpg" group-title="VOD Movies",211
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghostland" tvg-logo="http://wagnet.club:55055/images/tt9YSQlArAj6849SQQJ5ryNgcJs_small.jpg" group-title="VOD Movies",Ghostland
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="http://wagnet.club:55055/images/3gIO6mCd4Q4PF1tuwcyI3sjFrtI_small.jpg" group-title="VOD Movies",Rampage
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD Movies",Tomb Raider
+http://wagnet.club:55055/movie/gregkodi/gregkodi/17711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x01- Pilot" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x01- Pilot
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two and a half men - 1x02 - Big Flappy Bastards" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two and a half men - 1x02 - Big Flappy Bastards
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x03 - Go East on Sunset Until You Reach the Gates of Hell" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x03 - Go East on Sunset Until You Reach the Gates of Hell
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x04 - If I Can't Write My Chocolate Song I'm Going To Take A Nap" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x04 - If I Can't Write My Chocolate Song I'm Going To Take A Nap
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x05 - Last Thing You Want Is To Wind Up With A Hump" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x05 - Last Thing You Want Is To Wind Up With A Hump
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x06 - Did You Check With The Captain Of The Flying Monkeys" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x06 - Did You Check With The Captain Of The Flying Monkeys
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A half men - 1x07 - If They Do Go Either Way They Usually Are Fake" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A half men - 1x07 - If They Do Go Either Way They Usually Are Fake
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x08 - 25 Little Pre-Pubers Without A Snoot-Ful" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x08 - 25 Little Pre-Pubers Without A Snoot-Ful
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x09 - Phase One, Complete" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x09 - Phase One, Complete
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x10 - Merry Thanksgiving" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x10 - Merry Thanksgiving
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x11 - Alan Harper, Frontier Chiropractor" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x11 - Alan Harper, Frontier Chiropractor
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x12 - Camel Filters & Pheromones" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x12 - Camel Filters & Pheromones
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x13 - Sara like puny Alan" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x13 - Sara like puny Alan
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x14 - I Can't Afford Hyenas" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x14 - I Can't Afford Hyenas
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x15 - Round One To The Hot Crazy Chick" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x15 - Round One To The Hot Crazy Chick
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x16 - That Was Saliva Alan" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x16 - That Was Saliva Alan
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x17 - Ate The Hamburgers, Wearing The Hats" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x17 - Ate The Hamburgers, Wearing The Hats
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x18 - An Old Flame With A New Wick" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x18 - An Old Flame With A New Wick
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x19 - I Remember The Coatroom I Just Don't Remember You" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x19 - I Remember The Coatroom I Just Don't Remember You
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x20 - Hey I Can Pee Outside In The Dark" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x20 - Hey I Can Pee Outside In The Dark
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x21 - No Sniffing No Wowing" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x21 - No Sniffing No Wowing
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x22 - My Doctor Has A Cow Puppet" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x22 - My Doctor Has A Cow Puppet
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x23 - Just Like Buffalo" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x23 - Just Like Buffalo
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two And A Half Men - 1x24 - Can You Feel My Finger" tvg-logo="http://wagnet.club:55055/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD TV Shows",Two And A Half Men - 1x24 - Can You Feel My Finger
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despicable Me" tvg-logo="http://wagnet.club:55055/images/4zHJhBSY4kNZXfhTlmy2TzXD51M_small.jpg" group-title="VOD Kids Movies",Despicable Me
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despicable Me 2" tvg-logo="http://wagnet.club:55055/images/kQrYyZQHkwkUg2KlUDyvymj9FAp_small.jpg" group-title="VOD Kids Movies",Despicable Me 2
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blockers" tvg-logo="http://wagnet.club:55055/images/uvlUQXg0AlpGzKukO11K7QtW3Yu_small.jpg" group-title="VOD Movies",Blockers
+http://wagnet.club:55055/movie/gregkodi/gregkodi/18179.mkv
